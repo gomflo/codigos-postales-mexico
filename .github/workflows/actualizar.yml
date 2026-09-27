@@ -1,0 +1,47 @@
+name: Actualizar datos
+
+on:
+  schedule:
+    - cron: "17 6 * * 1" # lunes 06:17 UTC
+  workflow_dispatch:
+    inputs:
+      forzar:
+        description: "Ignorar el límite de caída de filas (sólo si la baja es legítima)"
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+
+concurrency:
+  group: actualizar-datos
+  cancel-in-progress: false
+
+jobs:
+  actualizar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Descargar, validar y regenerar
+        env:
+          FORZAR: ${{ inputs.forzar }}
+        run: |
+          if [ "$FORZAR" = "true" ]; then
+            python3 scripts/actualizar.py --forzar
+          else
+            python3 scripts/actualizar.py
+          fi
+
+      - name: Commit y push si hubo cambios
+        run: |
+          git add data CHANGELOG.md README.md hf/README.md
+          if git diff --cached --quiet; then
+            echo "Sin cambios en los datos."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "datos: actualización $(date -u +%F)"
+          git push

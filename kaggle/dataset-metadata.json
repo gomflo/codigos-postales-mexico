@@ -1,0 +1,165 @@
+{
+  "title": "Códigos postales de México, Colombia y España",
+  "subtitle": "Catálogo Sepomex completo de México + Colombia y España (GeoNames), semanal",
+  "description": "Catálogo completo de códigos postales de **México** (Catálogo Nacional de Códigos Postales del Servicio Postal Mexicano, Sepomex), más **Colombia** y **España** (GeoNames), limpio y con el mismo esquema de 8 columnas en los tres países. Espejo de los datos de [Postali](https://postali.app), actualizado semanalmente desde https://github.com/gomflo/codigos-postales-mexico.\n\n## Archivos\n\n- `mx-codigos-postales.csv` — México: ~159 mil asentamientos, ~32 mil códigos postales, 32 estados.\n- `co-codigos-postales.csv` — Colombia: ~3.7 mil entradas (cobertura GeoNames, parcial en zonas rurales).\n- `es-codigos-postales.csv` — España: ~38 mil entradas, 52 provincias.\n\nUTF-8 con BOM. Lee `codigo_postal` como texto para no perder los ceros a la izquierda (`pd.read_csv(ruta, dtype=str)`).\n\n¿Necesitas consultar un CP puntual? Usa la API gratuita https://postali.app/api\n\n## Fuente, licencia y cita\n\n- **México:** Servicio Postal Mexicano (Correos de México). Se aplican los términos de Sepomex: el catálogo se proporciona en forma gratuita y no está permitida su comercialización, total o parcial. No tiene una licencia abierta estándar. https://postali.app/mx\n- **Colombia y España:** GeoNames (https://www.geonames.org), licencia CC BY 4.0; la atribución es obligatoria. https://postali.app/co · https://postali.app/es\n\nCita sugerida: \"Códigos postales: Servicio Postal Mexicano (México) y GeoNames, CC BY 4.0 (Colombia, España). Limpieza y publicación: Postali — https://postali.app\".\n\n## English\n\nFull postal code catalog for Mexico (Sepomex) plus Colombia and Spain (GeoNames, CC BY 4.0), cleaned by Postali (https://postali.app) and refreshed weekly. Mexican data follows Sepomex terms (free of charge, commercialization not permitted); Colombian and Spanish data require GeoNames attribution. Free lookup API: https://postali.app/api\n",
+  "id": "gomflo/codigos-postales-mexico",
+  "licenses": [
+    {
+      "name": "other"
+    }
+  ],
+  "keywords": [
+    "geography",
+    "government",
+    "tabular"
+  ],
+  "resources": [
+    {
+      "path": "mx-codigos-postales.csv",
+      "description": "México — Catálogo Nacional de Códigos Postales (Sepomex) vía postali.app/mx",
+      "schema": {
+        "fields": [
+          {
+            "name": "codigo_postal",
+            "title": "Código postal",
+            "type": "string",
+            "description": "Código postal como texto, con ceros a la izquierda"
+          },
+          {
+            "name": "asentamiento",
+            "type": "string",
+            "description": "Nombre del asentamiento / centro poblado / localidad"
+          },
+          {
+            "name": "tipo",
+            "type": "string",
+            "description": "Tipo de asentamiento (Colonia, Fraccionamiento, Zona Postal, Localidad...)"
+          },
+          {
+            "name": "municipio",
+            "type": "string",
+            "description": "Municipio o alcaldía"
+          },
+          {
+            "name": "estado",
+            "type": "string",
+            "description": "Primer nivel administrativo"
+          },
+          {
+            "name": "ciudad",
+            "type": "string",
+            "description": "Ciudad (sólo México; vacía en CO y ES)"
+          },
+          {
+            "name": "zona",
+            "type": "string",
+            "description": "Urbano, Rural o Semiurbano (sólo México)"
+          },
+          {
+            "name": "url",
+            "type": "string",
+            "description": "Ficha del asentamiento en postali.app"
+          }
+        ]
+      }
+    },
+    {
+      "path": "co-codigos-postales.csv",
+      "description": "Colombia — GeoNames (CC BY 4.0) vía postali.app/co",
+      "schema": {
+        "fields": [
+          {
+            "name": "codigo_postal",
+            "title": "Código postal",
+            "type": "string",
+            "description": "Código postal como texto, con ceros a la izquierda"
+          },
+          {
+            "name": "centro_poblado",
+            "type": "string",
+            "description": "Nombre del asentamiento / centro poblado / localidad"
+          },
+          {
+            "name": "tipo",
+            "type": "string",
+            "description": "Tipo de asentamiento (Colonia, Fraccionamiento, Zona Postal, Localidad...)"
+          },
+          {
+            "name": "municipio",
+            "type": "string",
+            "description": "Municipio o alcaldía"
+          },
+          {
+            "name": "departamento",
+            "type": "string",
+            "description": "Primer nivel administrativo"
+          },
+          {
+            "name": "ciudad",
+            "type": "string",
+            "description": "Ciudad (sólo México; vacía en CO y ES)"
+          },
+          {
+            "name": "zona",
+            "type": "string",
+            "description": "Urbano, Rural o Semiurbano (sólo México)"
+          },
+          {
+            "name": "url",
+            "type": "string",
+            "description": "Ficha del asentamiento en postali.app"
+          }
+        ]
+      }
+    },
+    {
+      "path": "es-codigos-postales.csv",
+      "description": "España — GeoNames (CC BY 4.0) vía postali.app/es",
+      "schema": {
+        "fields": [
+          {
+            "name": "codigo_postal",
+            "title": "Código postal",
+            "type": "string",
+            "description": "Código postal como texto, con ceros a la izquierda"
+          },
+          {
+            "name": "localidad",
+            "type": "string",
+            "description": "Nombre del asentamiento / centro poblado / localidad"
+          },
+          {
+            "name": "tipo",
+            "type": "string",
+            "description": "Tipo de asentamiento (Colonia, Fraccionamiento, Zona Postal, Localidad...)"
+          },
+          {
+            "name": "municipio",
+            "type": "string",
+            "description": "Municipio o alcaldía"
+          },
+          {
+            "name": "provincia",
+            "type": "string",
+            "description": "Primer nivel administrativo"
+          },
+          {
+            "name": "ciudad",
+            "type": "string",
+            "description": "Ciudad (sólo México; vacía en CO y ES)"
+          },
+          {
+            "name": "zona",
+            "type": "string",
+            "description": "Urbano, Rural o Semiurbano (sólo México)"
+          },
+          {
+            "name": "url",
+            "type": "string",
+            "description": "Ficha del asentamiento en postali.app"
+          }
+        ]
+      }
+    }
+  ]
+}

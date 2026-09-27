@@ -1,0 +1,35 @@
+{
+  "fuente": "https://postali.app",
+  "paises": {
+    "mx": {
+      "filas": 159326,
+      "codigos_postales": 31874,
+      "municipios": 2478,
+      "nivel1": 32,
+      "sha256": "beae1bf7a570745dca5fad8e69eab5862de966fc43119e6e237398924c36fe62",
+      "bytes": 20780942,
+      "actualizado": "2026-09-27",
+      "origen": "https://postali.app/mx/datos/codigos-postales.csv"
+    },
+    "co": {
+      "filas": 3681,
+      "codigos_postales": 3681,
+      "municipios": 1122,
+      "nivel1": 33,
+      "sha256": "f3f4b37c16a4c4c5cd50d8227cfc21c68208f043a4681db2006d58298b4c8c76",
+      "bytes": 394283,
+      "actualizado": "2026-09-27",
+      "origen": "https://postali.app/co/datos/codigos-postales.csv"
+    },
+    "es": {
+      "filas": 37867,
+      "codigos_postales": 11150,
+      "municipios": 6706,
+      "nivel1": 52,
+      "sha256": "1902ac825e69225c2254c88c6f320d0f47b093ee9fce0071bc6dd42efe6dac70",
+      "bytes": 4296922,
+      "actualizado": "2026-09-27",
+      "origen": "https://postali.app/es/datos/codigos-postales.csv"
+    }
+  }
+}
