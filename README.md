@@ -62,7 +62,7 @@ Conteos actuales (se regeneran en cada actualización):
 <!-- conteos:inicio -->
 | País | Archivo | Filas | Códigos postales | Municipios | Última actualización |
 |---|---|---:|---:|---:|---|
-| México | `data/mx/codigos-postales.csv` | 159,326 | 31,874 | 2,478 | 2026-09-27 |
+| México | `data/mx/codigos-postales.csv` | 159,342 | 31,874 | 2,478 | 2026-10-05 |
 | Colombia | `data/co/codigos-postales.csv` | 3,681 | 3,681 | 1,122 | 2026-09-27 |
 | España | `data/es/codigos-postales.csv` | 37,867 | 11,150 | 6,706 | 2026-09-27 |
 <!-- conteos:fin -->
