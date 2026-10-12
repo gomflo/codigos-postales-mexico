@@ -2,6 +2,14 @@
 
 Entradas generadas automáticamente por `scripts/actualizar.py` cuando alguno de los catálogos cambia.
 
+## 2026-10-12
+
+| País | Filas | Δ filas | CPs | Δ CPs | Altas | Bajas |
+|---|---:|---:|---:|---:|---:|---:|
+| México | 159,340 | -2 | 31,874 | 0 | 13 | 15 |
+
+Altas y bajas cuentan filas completas añadidas o retiradas (una fila editada cuenta como una baja y una alta).
+
 ## 2026-10-05
 
 | País | Filas | Δ filas | CPs | Δ CPs | Altas | Bajas |

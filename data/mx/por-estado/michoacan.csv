@@ -7298,8 +7298,7 @@
 61248,Sabaneta,Rancho,Hidalgo,Michoacán de Ocampo,,Rural,https://postali.app/mx/michoacan/hidalgo/sabaneta
 61250,Maravatío de Ocampo Centro,Colonia,Maravatío,Michoacán de Ocampo,Maravatío de Ocampo,Urbano,https://postali.app/mx/michoacan/maravatio/maravatio-de-ocampo-centro
 61252,5 de Mayo,Colonia,Maravatío,Michoacán de Ocampo,Maravatío de Ocampo,Urbano,https://postali.app/mx/michoacan/maravatio/5-de-mayo
-61252,Agua Bendita,Fraccionamiento,Maravatío,Michoacán de Ocampo,Maravatío de Ocampo,Urbano,https://postali.app/mx/michoacan/maravatio/agua-bendita
-61252,Agua Bendita,Colonia,Maravatío,Michoacán de Ocampo,Maravatío de Ocampo,Urbano,https://postali.app/mx/michoacan/maravatio/agua-bendita-61252
+61252,Agua Bendita,Colonia,Maravatío,Michoacán de Ocampo,Maravatío de Ocampo,Urbano,https://postali.app/mx/michoacan/maravatio/agua-bendita
 61252,Arboledas Fovissste,Unidad habitacional,Maravatío,Michoacán de Ocampo,Maravatío de Ocampo,Urbano,https://postali.app/mx/michoacan/maravatio/arboledas-fovissste
 61252,Constituyentes,Fraccionamiento,Maravatío,Michoacán de Ocampo,Maravatío de Ocampo,Urbano,https://postali.app/mx/michoacan/maravatio/constituyentes
 61252,Cristo Rey,Colonia,Maravatío,Michoacán de Ocampo,Maravatío de Ocampo,Urbano,https://postali.app/mx/michoacan/maravatio/cristo-rey
@@ -7325,11 +7324,9 @@
 61252,San Juan Guaracha,Rancho,Maravatío,Michoacán de Ocampo,Maravatío de Ocampo,Rural,https://postali.app/mx/michoacan/maravatio/san-juan-guaracha
 61252,San Nicolás,Colonia,Maravatío,Michoacán de Ocampo,Maravatío de Ocampo,Urbano,https://postali.app/mx/michoacan/maravatio/san-nicolas
 61252,Valle Dorado,Colonia,Maravatío,Michoacán de Ocampo,Maravatío de Ocampo,Urbano,https://postali.app/mx/michoacan/maravatio/valle-dorado
-61252,Vasco de Quiroga,Colonia,Maravatío,Michoacán de Ocampo,Maravatío de Ocampo,Urbano,https://postali.app/mx/michoacan/maravatio/vasco-de-quiroga
 61253,Cuartel Quinto,Colonia,Maravatío,Michoacán de Ocampo,Maravatío de Ocampo,Urbano,https://postali.app/mx/michoacan/maravatio/cuartel-quinto
 61253,Francisco I. Madero,Colonia,Maravatío,Michoacán de Ocampo,Maravatío de Ocampo,Urbano,https://postali.app/mx/michoacan/maravatio/francisco-i-madero
 61253,Lázaro Cárdenas (El Llano),Colonia,Maravatío,Michoacán de Ocampo,Maravatío de Ocampo,Urbano,https://postali.app/mx/michoacan/maravatio/lazaro-cardenas-el-llano
-61253,Magisterial,Colonia,Maravatío,Michoacán de Ocampo,Maravatío de Ocampo,Urbano,https://postali.app/mx/michoacan/maravatio/magisterial
 61253,San Cristóbal,Colonia,Maravatío,Michoacán de Ocampo,Maravatío de Ocampo,Urbano,https://postali.app/mx/michoacan/maravatio/san-cristobal
 61253,San Miguel,Colonia,Maravatío,Michoacán de Ocampo,Maravatío de Ocampo,Urbano,https://postali.app/mx/michoacan/maravatio/san-miguel
 61253,Santa Rita,Rancho,Maravatío,Michoacán de Ocampo,Maravatío de Ocampo,Rural,https://postali.app/mx/michoacan/maravatio/santa-rita
@@ -7486,6 +7483,9 @@
 61280,Las Rosas,Colonia,Irimbo,Michoacán de Ocampo,,Urbano,https://postali.app/mx/michoacan/irimbo/las-rosas
 61280,Los Acebuches,Colonia,Irimbo,Michoacán de Ocampo,,Urbano,https://postali.app/mx/michoacan/irimbo/los-acebuches
 61280,Los Ailes,Colonia,Irimbo,Michoacán de Ocampo,,Urbano,https://postali.app/mx/michoacan/irimbo/los-ailes
+61280,Los Hoyos,Ranchería,Irimbo,Michoacán de Ocampo,,Rural,https://postali.app/mx/michoacan/irimbo/los-hoyos
+61280,Los Marzos,Ejido,Irimbo,Michoacán de Ocampo,,Rural,https://postali.app/mx/michoacan/irimbo/los-marzos
+61280,Los Marzos Pequeña,Ranchería,Irimbo,Michoacán de Ocampo,,Rural,https://postali.app/mx/michoacan/irimbo/los-marzos-pequena
 61280,Los Olmos,Colonia,Irimbo,Michoacán de Ocampo,,Urbano,https://postali.app/mx/michoacan/irimbo/los-olmos
 61280,Pedro Cuini,Colonia,Irimbo,Michoacán de Ocampo,,Urbano,https://postali.app/mx/michoacan/irimbo/pedro-cuini
 61280,Siglo XX,Colonia,Irimbo,Michoacán de Ocampo,,Urbano,https://postali.app/mx/michoacan/irimbo/siglo-xx
@@ -7497,31 +7497,27 @@
 61282,Las Joyas,Ranchería,Irimbo,Michoacán de Ocampo,,Rural,https://postali.app/mx/michoacan/irimbo/las-joyas
 61282,Loma de Chupio,Ranchería,Irimbo,Michoacán de Ocampo,,Rural,https://postali.app/mx/michoacan/irimbo/loma-de-chupio
 61282,San Lorenzo Queréndaro,Pueblo,Irimbo,Michoacán de Ocampo,,Rural,https://postali.app/mx/michoacan/irimbo/san-lorenzo-querendaro
+61282,San Miguel la Virgen,Ranchería,Irimbo,Michoacán de Ocampo,,Rural,https://postali.app/mx/michoacan/irimbo/san-miguel-la-virgen
+61282,San Nicolás,Rancho,Irimbo,Michoacán de Ocampo,,Rural,https://postali.app/mx/michoacan/irimbo/san-nicolas
+61283,El Zorrillo,Rancho,Irimbo,Michoacán de Ocampo,,Rural,https://postali.app/mx/michoacan/irimbo/el-zorrillo
 61283,Tzintzingareo,Pueblo,Irimbo,Michoacán de Ocampo,,Urbano,https://postali.app/mx/michoacan/irimbo/tzintzingareo
 61284,Balvaneda,Ranchería,Irimbo,Michoacán de Ocampo,,Rural,https://postali.app/mx/michoacan/irimbo/balvaneda
 61284,Cerrito Blanco,Ranchería,Irimbo,Michoacán de Ocampo,,Rural,https://postali.app/mx/michoacan/irimbo/cerrito-blanco
 61284,Concharrás,Ranchería,Irimbo,Michoacán de Ocampo,,Rural,https://postali.app/mx/michoacan/irimbo/concharras
 61284,La Cuajada,Pueblo,Irimbo,Michoacán de Ocampo,,Rural,https://postali.app/mx/michoacan/irimbo/la-cuajada
-61285,Cristo Rey,Ranchería,Irimbo,Michoacán de Ocampo,,Rural,https://postali.app/mx/michoacan/irimbo/cristo-rey-61285
+61284,Las Surtadas (Las Hurtadas),Ranchería,Irimbo,Michoacán de Ocampo,,Rural,https://postali.app/mx/michoacan/irimbo/las-surtadas-las-hurtadas
 61285,El Obraje,Ranchería,Irimbo,Michoacán de Ocampo,,Rural,https://postali.app/mx/michoacan/irimbo/el-obraje
 61285,El Salto,Ranchería,Irimbo,Michoacán de Ocampo,,Rural,https://postali.app/mx/michoacan/irimbo/el-salto
 61285,Estación Irimbo,Ranchería,Irimbo,Michoacán de Ocampo,,Rural,https://postali.app/mx/michoacan/irimbo/estacion-irimbo
 61285,Garambullo,Ranchería,Irimbo,Michoacán de Ocampo,,Rural,https://postali.app/mx/michoacan/irimbo/garambullo
-61285,Los Marzos Pequeña,Ranchería,Irimbo,Michoacán de Ocampo,,Rural,https://postali.app/mx/michoacan/irimbo/los-marzos-pequena
 61285,San Antonio Tarichado,Rancho,Irimbo,Michoacán de Ocampo,,Rural,https://postali.app/mx/michoacan/irimbo/san-antonio-tarichado
 61285,San Francisco Epunguio,Pueblo,Irimbo,Michoacán de Ocampo,,Rural,https://postali.app/mx/michoacan/irimbo/san-francisco-epunguio
 61285,San Miguel el Alto,Ranchería,Irimbo,Michoacán de Ocampo,,Rural,https://postali.app/mx/michoacan/irimbo/san-miguel-el-alto
 61286,El Colorín (Seis de Junio),Colonia,Irimbo,Michoacán de Ocampo,,Rural,https://postali.app/mx/michoacan/irimbo/el-colorin-seis-de-junio
 61286,Los Cedros,Colonia,Irimbo,Michoacán de Ocampo,,Rural,https://postali.app/mx/michoacan/irimbo/los-cedros
 61286,San José de Magallanes,Ranchería,Irimbo,Michoacán de Ocampo,,Rural,https://postali.app/mx/michoacan/irimbo/san-jose-de-magallanes
-61286,San Miguel la Virgen,Ranchería,Irimbo,Michoacán de Ocampo,,Rural,https://postali.app/mx/michoacan/irimbo/san-miguel-la-virgen
-61286,San Nicolás,Rancho,Irimbo,Michoacán de Ocampo,,Rural,https://postali.app/mx/michoacan/irimbo/san-nicolas
 61287,La Frontera,Ranchería,Irimbo,Michoacán de Ocampo,,Rural,https://postali.app/mx/michoacan/irimbo/la-frontera
-61287,Las Surtadas (Las Hurtadas),Ranchería,Irimbo,Michoacán de Ocampo,,Rural,https://postali.app/mx/michoacan/irimbo/las-surtadas-las-hurtadas
-61287,Los Hoyos,Ranchería,Irimbo,Michoacán de Ocampo,,Rural,https://postali.app/mx/michoacan/irimbo/los-hoyos
-61287,Los Marzos,Ejido,Irimbo,Michoacán de Ocampo,,Rural,https://postali.app/mx/michoacan/irimbo/los-marzos
 61287,Los Mogotes,Ranchería,Irimbo,Michoacán de Ocampo,,Rural,https://postali.app/mx/michoacan/irimbo/los-mogotes
-61288,El Zorrillo,Rancho,Irimbo,Michoacán de Ocampo,,Rural,https://postali.app/mx/michoacan/irimbo/el-zorrillo
 61288,Llano Grande,Ranchería,Irimbo,Michoacán de Ocampo,,Rural,https://postali.app/mx/michoacan/irimbo/llano-grande
 61288,San Vicente el Chico (Manzana de San Vicente),Ranchería,Irimbo,Michoacán de Ocampo,,Rural,https://postali.app/mx/michoacan/irimbo/san-vicente-el-chico-manzana-de-san-vicente
 61290,Guadalupe (Rancho de Guadalupe),Rancho,Senguio,Michoacán de Ocampo,,Rural,https://postali.app/mx/michoacan/senguio/guadalupe-rancho-de-guadalupe
