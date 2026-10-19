@@ -569,7 +569,6 @@
 87300,Heroica Matamoros Centro,Colonia,Matamoros,Tamaulipas,Heroica Matamoros,Urbano,https://postali.app/mx/tamaulipas/matamoros/heroica-matamoros-centro
 87310,Baltazar Díaz Bazán,Colonia,Matamoros,Tamaulipas,Heroica Matamoros,Urbano,https://postali.app/mx/tamaulipas/matamoros/baltazar-diaz-bazan
 87310,Esperanza,Colonia,Matamoros,Tamaulipas,Heroica Matamoros,Urbano,https://postali.app/mx/tamaulipas/matamoros/esperanza
-87310,Juanillo,Colonia,Matamoros,Tamaulipas,Heroica Matamoros,Rural,https://postali.app/mx/tamaulipas/matamoros/juanillo
 87310,Reforma,Colonia,Matamoros,Tamaulipas,Heroica Matamoros,Urbano,https://postali.app/mx/tamaulipas/matamoros/reforma
 87310,Sección 11,Colonia,Matamoros,Tamaulipas,Heroica Matamoros,Urbano,https://postali.app/mx/tamaulipas/matamoros/seccion-11
 87310,Uniones,Colonia,Matamoros,Tamaulipas,Heroica Matamoros,Urbano,https://postali.app/mx/tamaulipas/matamoros/uniones
@@ -975,7 +974,6 @@
 87495,Hogares de Matamoros,Colonia,Matamoros,Tamaulipas,Heroica Matamoros,Urbano,https://postali.app/mx/tamaulipas/matamoros/hogares-de-matamoros
 87495,Las Palomas,Colonia,Matamoros,Tamaulipas,Heroica Matamoros,Urbano,https://postali.app/mx/tamaulipas/matamoros/las-palomas
 87495,Loma Alta,Colonia,Matamoros,Tamaulipas,Heroica Matamoros,Urbano,https://postali.app/mx/tamaulipas/matamoros/loma-alta
-87495,Renacimiento,Colonia,Matamoros,Tamaulipas,Heroica Matamoros,Urbano,https://postali.app/mx/tamaulipas/matamoros/renacimiento
 87495,San Ángel Oriente,Colonia,Matamoros,Tamaulipas,Heroica Matamoros,Urbano,https://postali.app/mx/tamaulipas/matamoros/san-angel-oriente
 87495,Santa Fe,Fraccionamiento,Matamoros,Tamaulipas,Heroica Matamoros,Urbano,https://postali.app/mx/tamaulipas/matamoros/santa-fe
 87495,Valle del Mezquital,Fraccionamiento,Matamoros,Tamaulipas,Heroica Matamoros,Urbano,https://postali.app/mx/tamaulipas/matamoros/valle-del-mezquital
@@ -1114,7 +1112,11 @@
 87530,Álvaro Obregón [Carr Est 53 de Sur93 a Sur96 Pte],Ejido,Valle Hermoso,Tamaulipas,,Rural,https://postali.app/mx/tamaulipas/valle-hermoso/alvaro-obregon-carr-est-53-de-sur93-a-sur96-pte
 87535,El Porvenir,Ranchería,Valle Hermoso,Tamaulipas,,Rural,https://postali.app/mx/tamaulipas/valle-hermoso/el-porvenir
 87540,El Longoreño,Ejido,Matamoros,Tamaulipas,,Rural,https://postali.app/mx/tamaulipas/matamoros/el-longoreno
-87540,El Refugio,Ejido,Matamoros,Tamaulipas,,Rural,https://postali.app/mx/tamaulipas/matamoros/el-refugio
+87540,El Ranchito,Ranchería,Matamoros,Tamaulipas,,Rural,https://postali.app/mx/tamaulipas/matamoros/el-ranchito
+87540,El Ranchito y Refugio (El Refugio),Ejido,Matamoros,Tamaulipas,,Rural,https://postali.app/mx/tamaulipas/matamoros/el-ranchito-y-refugio-el-refugio
+87540,Las Margaritas,Colonia,Matamoros,Tamaulipas,,Rural,https://postali.app/mx/tamaulipas/matamoros/las-margaritas
+87540,Las Quintas,Colonia,Matamoros,Tamaulipas,,Rural,https://postali.app/mx/tamaulipas/matamoros/las-quintas
+87540,Los Girasoles,Colonia,Matamoros,Tamaulipas,,Rural,https://postali.app/mx/tamaulipas/matamoros/los-girasoles-87540
 87544,El Tecolote,Ejido,Matamoros,Tamaulipas,,Rural,https://postali.app/mx/tamaulipas/matamoros/el-tecolote
 87544,El Tecolote,Barrio,Matamoros,Tamaulipas,,Rural,https://postali.app/mx/tamaulipas/matamoros/el-tecolote-87544
 87550,Presidente Cárdenas (Villa Cárdenas),Ejido,Matamoros,Tamaulipas,,Rural,https://postali.app/mx/tamaulipas/matamoros/presidente-cardenas-villa-cardenas
@@ -1143,31 +1145,36 @@
 87554,San Luisito,Ejido,Matamoros,Tamaulipas,,Rural,https://postali.app/mx/tamaulipas/matamoros/san-luisito
 87554,Villanueva,Ejido,Matamoros,Tamaulipas,,Rural,https://postali.app/mx/tamaulipas/matamoros/villanueva
 87555,La Sierrita,Ejido,Matamoros,Tamaulipas,,Rural,https://postali.app/mx/tamaulipas/matamoros/la-sierrita
+87557,CEFERESO Número 3,Equipamiento,Matamoros,Tamaulipas,,Rural,https://postali.app/mx/tamaulipas/matamoros/cefereso-numero-3
 87557,El Ebanito,Ejido,Matamoros,Tamaulipas,,Rural,https://postali.app/mx/tamaulipas/matamoros/el-ebanito
-87557,El Perote,Ejido,Matamoros,Tamaulipas,,Rural,https://postali.app/mx/tamaulipas/matamoros/el-perote
+87557,El Refugio,Equipamiento,Matamoros,Tamaulipas,,Rural,https://postali.app/mx/tamaulipas/matamoros/el-refugio
 87557,El Sabinito,Ejido,Matamoros,Tamaulipas,,Rural,https://postali.app/mx/tamaulipas/matamoros/el-sabinito
 87557,El Sabino,Ejido,Matamoros,Tamaulipas,,Rural,https://postali.app/mx/tamaulipas/matamoros/el-sabino
 87557,El Sabino (Napoleón Benavides),Ranchería,Matamoros,Tamaulipas,,Rural,https://postali.app/mx/tamaulipas/matamoros/el-sabino-napoleon-benavides
 87557,El Tahuachal,Ejido,Matamoros,Tamaulipas,,Rural,https://postali.app/mx/tamaulipas/matamoros/el-tahuachal
 87557,Estación Sandoval,Ejido,Matamoros,Tamaulipas,,Rural,https://postali.app/mx/tamaulipas/matamoros/estacion-sandoval
+87557,Guadalupe,Colonia,Matamoros,Tamaulipas,,Rural,https://postali.app/mx/tamaulipas/matamoros/guadalupe
+87557,Los Ranchitos (El Crucero),Colonia,Matamoros,Tamaulipas,,Rural,https://postali.app/mx/tamaulipas/matamoros/los-ranchitos-el-crucero
+87557,Los Ranchitos (Porfirio Méndez),Ejido,Matamoros,Tamaulipas,,Rural,https://postali.app/mx/tamaulipas/matamoros/los-ranchitos-porfirio-mendez
 87557,Sandoval (Familia Pizaña),Ejido,Matamoros,Tamaulipas,,Rural,https://postali.app/mx/tamaulipas/matamoros/sandoval-familia-pizana
 87557,Santa Adelaida,Ejido,Matamoros,Tamaulipas,,Rural,https://postali.app/mx/tamaulipas/matamoros/santa-adelaida
 87557,Santa Irene,Ejido,Matamoros,Tamaulipas,,Rural,https://postali.app/mx/tamaulipas/matamoros/santa-irene
 87557,Villaverde,Ejido,Matamoros,Tamaulipas,,Rural,https://postali.app/mx/tamaulipas/matamoros/villaverde
-87557,Ángeles de Dios [Casa Hogar],Equipamiento,Matamoros,Tamaulipas,,Rural,https://postali.app/mx/tamaulipas/matamoros/angeles-de-dios-casa-hogar
+87558,El Perote,Ejido,Matamoros,Tamaulipas,,Rural,https://postali.app/mx/tamaulipas/matamoros/el-perote
 87558,La Reforma,Ejido,Matamoros,Tamaulipas,,Rural,https://postali.app/mx/tamaulipas/matamoros/la-reforma
 87558,Los Olmos,Ejido,Matamoros,Tamaulipas,,Rural,https://postali.app/mx/tamaulipas/matamoros/los-olmos
 87558,Los Timones,Ejido,Matamoros,Tamaulipas,,Rural,https://postali.app/mx/tamaulipas/matamoros/los-timones
 87558,Palo Blanco,Ejido,Matamoros,Tamaulipas,,Rural,https://postali.app/mx/tamaulipas/matamoros/palo-blanco
 87558,Progreso Agrario (Santa Librada),Ranchería,Matamoros,Tamaulipas,,Rural,https://postali.app/mx/tamaulipas/matamoros/progreso-agrario-santa-librada
 87558,San Andrés,Ejido,Matamoros,Tamaulipas,,Rural,https://postali.app/mx/tamaulipas/matamoros/san-andres
+87558,Ángeles de Dios [Casa Hogar],Equipamiento,Matamoros,Tamaulipas,,Rural,https://postali.app/mx/tamaulipas/matamoros/angeles-de-dios-casa-hogar
 87559,Río Rico,Ejido,Matamoros,Tamaulipas,,Rural,https://postali.app/mx/tamaulipas/matamoros/rio-rico
 87560,21 de Marzo,Rancho,Matamoros,Tamaulipas,,Rural,https://postali.app/mx/tamaulipas/matamoros/21-de-marzo
 87560,23 de Noviembre,Unidad habitacional,Matamoros,Tamaulipas,,Rural,https://postali.app/mx/tamaulipas/matamoros/23-de-noviembre
 87560,Ampliación la Tijerita,Ejido,Matamoros,Tamaulipas,,Rural,https://postali.app/mx/tamaulipas/matamoros/ampliacion-la-tijerita
-87560,CEFERESO Número 3,Equipamiento,Matamoros,Tamaulipas,,Rural,https://postali.app/mx/tamaulipas/matamoros/cefereso-numero-3
 87560,El Galaneño,Ejido,Matamoros,Tamaulipas,,Rural,https://postali.app/mx/tamaulipas/matamoros/el-galaneno
 87560,El Saucito Residencial,Fraccionamiento,Matamoros,Tamaulipas,,Rural,https://postali.app/mx/tamaulipas/matamoros/el-saucito-residencial
+87560,El Álamo,Ranchería,Matamoros,Tamaulipas,,Rural,https://postali.app/mx/tamaulipas/matamoros/el-alamo
 87560,Ignacio Zaragoza,Ranchería,Matamoros,Tamaulipas,,Rural,https://postali.app/mx/tamaulipas/matamoros/ignacio-zaragoza-87560
 87560,La Gloria,Ejido,Matamoros,Tamaulipas,,Rural,https://postali.app/mx/tamaulipas/matamoros/la-gloria
 87560,La Jarita Norte,Ranchería,Matamoros,Tamaulipas,,Rural,https://postali.app/mx/tamaulipas/matamoros/la-jarita-norte
@@ -1176,19 +1183,16 @@
 87560,La Tijerita,Ejido,Matamoros,Tamaulipas,,Rural,https://postali.app/mx/tamaulipas/matamoros/la-tijerita-87560
 87560,La Tijerita (Potrero Nuevo),Ranchería,Matamoros,Tamaulipas,,Rural,https://postali.app/mx/tamaulipas/matamoros/la-tijerita-potrero-nuevo
 87560,La Venada,Ejido,Matamoros,Tamaulipas,,Rural,https://postali.app/mx/tamaulipas/matamoros/la-venada
-87560,Los Ranchitos (Porfirio Méndez),Ejido,Matamoros,Tamaulipas,,Rural,https://postali.app/mx/tamaulipas/matamoros/los-ranchitos-porfirio-mendez
+87560,La Ventana,Ejido,Matamoros,Tamaulipas,,Rural,https://postali.app/mx/tamaulipas/matamoros/la-ventana
+87560,Las Blancas,Ejido,Matamoros,Tamaulipas,,Rural,https://postali.app/mx/tamaulipas/matamoros/las-blancas
 87560,Matamoros (Servando Canales),Aeropuerto,Matamoros,Tamaulipas,,Urbano,https://postali.app/mx/tamaulipas/matamoros/matamoros-servando-canales
 87560,Mogote de Santiago,Ejido,Matamoros,Tamaulipas,,Rural,https://postali.app/mx/tamaulipas/matamoros/mogote-de-santiago
 87563,Laguna Honda,Ejido,Matamoros,Tamaulipas,,Rural,https://postali.app/mx/tamaulipas/matamoros/laguna-honda
 87563,Pacheco,Ejido,Matamoros,Tamaulipas,,Rural,https://postali.app/mx/tamaulipas/matamoros/pacheco
-87564,El Álamo,Ranchería,Matamoros,Tamaulipas,,Rural,https://postali.app/mx/tamaulipas/matamoros/el-alamo
-87565,Las Blancas,Ejido,Matamoros,Tamaulipas,,Rural,https://postali.app/mx/tamaulipas/matamoros/las-blancas
 87569,Cordillera,Colonia,Matamoros,Tamaulipas,,Rural,https://postali.app/mx/tamaulipas/matamoros/cordillera
-87569,Guadalupe,Ejido,Matamoros,Tamaulipas,,Rural,https://postali.app/mx/tamaulipas/matamoros/guadalupe
-87569,La Ventana,Ejido,Matamoros,Tamaulipas,,Rural,https://postali.app/mx/tamaulipas/matamoros/la-ventana
+87569,Guadalupe,Ejido,Matamoros,Tamaulipas,,Rural,https://postali.app/mx/tamaulipas/matamoros/guadalupe-87569
+87569,Juanillo,Colonia,Matamoros,Tamaulipas,,Rural,https://postali.app/mx/tamaulipas/matamoros/juanillo
 87569,Parque Industrial las Ventanas,Zona industrial,Matamoros,Tamaulipas,,Rural,https://postali.app/mx/tamaulipas/matamoros/parque-industrial-las-ventanas
-87570,El Ranchito,Ranchería,Matamoros,Tamaulipas,,Rural,https://postali.app/mx/tamaulipas/matamoros/el-ranchito
-87570,El Ranchito y Refugio (El Refugio),Ejido,Matamoros,Tamaulipas,,Rural,https://postali.app/mx/tamaulipas/matamoros/el-ranchito-y-refugio-el-refugio
 87577,El Huizachal,Ejido,Matamoros,Tamaulipas,,Rural,https://postali.app/mx/tamaulipas/matamoros/el-huizachal
 87577,La Bartolina,Ejido,Matamoros,Tamaulipas,,Rural,https://postali.app/mx/tamaulipas/matamoros/la-bartolina
 87577,Primer Campo Pesquero,Ranchería,Matamoros,Tamaulipas,,Rural,https://postali.app/mx/tamaulipas/matamoros/primer-campo-pesquero

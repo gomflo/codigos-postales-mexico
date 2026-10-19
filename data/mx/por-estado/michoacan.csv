@@ -3137,11 +3137,11 @@
 59636,Villas de Jericó,Colonia,Zamora,Michoacán de Ocampo,Zamora de Hidalgo,Urbano,https://postali.app/mx/michoacan/zamora/villas-de-jerico
 59636,Villas Zamoranas Del Paraíso,Fraccionamiento,Zamora,Michoacán de Ocampo,Zamora de Hidalgo,Urbano,https://postali.app/mx/michoacan/zamora/villas-zamoranas-del-paraiso
 59637,Villa Las Flores,Fraccionamiento,Zamora,Michoacán de Ocampo,Zamora de Hidalgo,Urbano,https://postali.app/mx/michoacan/zamora/villa-las-flores
-59638,16 de Septiembre,Barrio,Zamora,Michoacán de Ocampo,Zamora de Hidalgo,Urbano,https://postali.app/mx/michoacan/zamora/16-de-septiembre
-59638,Javier Acuña,Colonia,Zamora,Michoacán de Ocampo,Zamora de Hidalgo,Urbano,https://postali.app/mx/michoacan/zamora/javier-acuna
+59640,16 de Septiembre,Barrio,Zamora,Michoacán de Ocampo,Zamora de Hidalgo,Urbano,https://postali.app/mx/michoacan/zamora/16-de-septiembre
 59640,Acanto,Fraccionamiento,Zamora,Michoacán de Ocampo,Zamora de Hidalgo,Urbano,https://postali.app/mx/michoacan/zamora/acanto
 59640,Campestre San José,Conjunto habitacional,Zamora,Michoacán de Ocampo,Zamora de Hidalgo,Urbano,https://postali.app/mx/michoacan/zamora/campestre-san-jose
 59640,Hacienda los Ángeles,Fraccionamiento,Zamora,Michoacán de Ocampo,Zamora de Hidalgo,Urbano,https://postali.app/mx/michoacan/zamora/hacienda-los-angeles
+59640,Javier Acuña,Colonia,Zamora,Michoacán de Ocampo,Zamora de Hidalgo,Urbano,https://postali.app/mx/michoacan/zamora/javier-acuna
 59640,Miguel Regalado,Colonia,Zamora,Michoacán de Ocampo,Zamora de Hidalgo,Urbano,https://postali.app/mx/michoacan/zamora/miguel-regalado
 59640,Nueva Era,Fraccionamiento,Zamora,Michoacán de Ocampo,Zamora de Hidalgo,Urbano,https://postali.app/mx/michoacan/zamora/nueva-era
 59640,Predio San José,Colonia,Zamora,Michoacán de Ocampo,Zamora de Hidalgo,Urbano,https://postali.app/mx/michoacan/zamora/predio-san-jose
@@ -3190,7 +3190,6 @@
 59669,Linda Vista,Fraccionamiento,Zamora,Michoacán de Ocampo,Zamora de Hidalgo,Urbano,https://postali.app/mx/michoacan/zamora/linda-vista
 59669,Memo Gómez Lindavista,Colonia,Zamora,Michoacán de Ocampo,Zamora de Hidalgo,Urbano,https://postali.app/mx/michoacan/zamora/memo-gomez-lindavista
 59669,Nueva Esperanza,Colonia,Zamora,Michoacán de Ocampo,Zamora de Hidalgo,Urbano,https://postali.app/mx/michoacan/zamora/nueva-esperanza
-59669,Nueva Margarita,Colonia,Zamora,Michoacán de Ocampo,Zamora de Hidalgo,Urbano,https://postali.app/mx/michoacan/zamora/nueva-margarita
 59670,Jardines de Catedral,Colonia,Zamora,Michoacán de Ocampo,Zamora de Hidalgo,Urbano,https://postali.app/mx/michoacan/zamora/jardines-de-catedral
 59670,Las Rosas,Fraccionamiento,Zamora,Michoacán de Ocampo,Zamora de Hidalgo,Urbano,https://postali.app/mx/michoacan/zamora/las-rosas
 59670,San Juan,Barrio,Zamora,Michoacán de Ocampo,Zamora de Hidalgo,Urbano,https://postali.app/mx/michoacan/zamora/san-juan
@@ -3218,8 +3217,8 @@
 59695,Prados Del Bosque,Fraccionamiento,Zamora,Michoacán de Ocampo,Zamora de Hidalgo,Urbano,https://postali.app/mx/michoacan/zamora/prados-del-bosque
 59696,Jacinto López,Colonia,Zamora,Michoacán de Ocampo,Zamora de Hidalgo,Urbano,https://postali.app/mx/michoacan/zamora/jacinto-lopez
 59696,Puerta del Sol,Fraccionamiento,Zamora,Michoacán de Ocampo,Zamora de Hidalgo,Urbano,https://postali.app/mx/michoacan/zamora/puerta-del-sol
+59696,Villa del Sol,Fraccionamiento,Zamora,Michoacán de Ocampo,Zamora de Hidalgo,Urbano,https://postali.app/mx/michoacan/zamora/villa-del-sol
 59697,Chaparaco,Colonia,Zamora,Michoacán de Ocampo,Zamora de Hidalgo,Urbano,https://postali.app/mx/michoacan/zamora/chaparaco
-59697,El Pedregal,Colonia,Zamora,Michoacán de Ocampo,Zamora de Hidalgo,Urbano,https://postali.app/mx/michoacan/zamora/el-pedregal
 59697,Ex Hacienda El Refugio,Colonia,Zamora,Michoacán de Ocampo,Zamora de Hidalgo,Urbano,https://postali.app/mx/michoacan/zamora/ex-hacienda-el-refugio
 59697,Lomas de Chaparaco,Colonia,Zamora,Michoacán de Ocampo,Zamora de Hidalgo,Urbano,https://postali.app/mx/michoacan/zamora/lomas-de-chaparaco
 59698,INFONAVIT Arboledas 1a. Sección,Unidad habitacional,Zamora,Michoacán de Ocampo,Zamora de Hidalgo,Urbano,https://postali.app/mx/michoacan/zamora/infonavit-arboledas-1a-seccion
@@ -3235,14 +3234,16 @@
 59700,Ojo de Agua,Ranchería,Zamora,Michoacán de Ocampo,,Rural,https://postali.app/mx/michoacan/zamora/ojo-de-agua
 59701,Central de Abastos,Zona comercial,Zamora,Michoacán de Ocampo,,Urbano,https://postali.app/mx/michoacan/zamora/central-de-abastos
 59703,El Sauz de Magaña,Ranchería,Zamora,Michoacán de Ocampo,,Rural,https://postali.app/mx/michoacan/zamora/el-sauz-de-magana
-59704,La Estancia de Amezcua,Ranchería,Zamora,Michoacán de Ocampo,,Rural,https://postali.app/mx/michoacan/zamora/la-estancia-de-amezcua
+59704,La Estancia de Amezcua,Colonia,Zamora,Michoacán de Ocampo,,Rural,https://postali.app/mx/michoacan/zamora/la-estancia-de-amezcua
 59710,El Llano,Ranchería,Zamora,Michoacán de Ocampo,,Rural,https://postali.app/mx/michoacan/zamora/el-llano
 59711,Ario de Rayón,Pueblo,Zamora,Michoacán de Ocampo,,Urbano,https://postali.app/mx/michoacan/zamora/ario-de-rayon
 59711,Ario de Rayón,Conjunto habitacional,Zamora,Michoacán de Ocampo,,Urbano,https://postali.app/mx/michoacan/zamora/ario-de-rayon-59711
 59711,Ejidal,Colonia,Zamora,Michoacán de Ocampo,,Urbano,https://postali.app/mx/michoacan/zamora/ejidal-59711
+59711,El Salitrillo,Colonia,Zamora,Michoacán de Ocampo,,Urbano,https://postali.app/mx/michoacan/zamora/el-salitrillo
 59711,Francisco Sarabia,Colonia,Zamora,Michoacán de Ocampo,,Urbano,https://postali.app/mx/michoacan/zamora/francisco-sarabia
 59711,La Calera,Fraccionamiento,Zamora,Michoacán de Ocampo,,Urbano,https://postali.app/mx/michoacan/zamora/la-calera
 59711,Plaza Santa Mónica,Fraccionamiento,Zamora,Michoacán de Ocampo,,Urbano,https://postali.app/mx/michoacan/zamora/plaza-santa-monica
+59711,Riveras del Duero,Fraccionamiento,Zamora,Michoacán de Ocampo,,Urbano,https://postali.app/mx/michoacan/zamora/riveras-del-duero
 59711,Sixto Verduzco,Colonia,Zamora,Michoacán de Ocampo,,Urbano,https://postali.app/mx/michoacan/zamora/sixto-verduzco
 59712,La Sauceda,Pueblo,Zamora,Michoacán de Ocampo,,Urbano,https://postali.app/mx/michoacan/zamora/la-sauceda
 59713,Villafuerte,Ranchería,Zamora,Michoacán de Ocampo,,Rural,https://postali.app/mx/michoacan/zamora/villafuerte
@@ -7299,6 +7300,7 @@
 61250,Maravatío de Ocampo Centro,Colonia,Maravatío,Michoacán de Ocampo,Maravatío de Ocampo,Urbano,https://postali.app/mx/michoacan/maravatio/maravatio-de-ocampo-centro
 61252,5 de Mayo,Colonia,Maravatío,Michoacán de Ocampo,Maravatío de Ocampo,Urbano,https://postali.app/mx/michoacan/maravatio/5-de-mayo
 61252,Agua Bendita,Colonia,Maravatío,Michoacán de Ocampo,Maravatío de Ocampo,Urbano,https://postali.app/mx/michoacan/maravatio/agua-bendita
+61252,Arboledas,Colonia,Maravatío,Michoacán de Ocampo,Maravatío de Ocampo,Urbano,https://postali.app/mx/michoacan/maravatio/arboledas
 61252,Arboledas Fovissste,Unidad habitacional,Maravatío,Michoacán de Ocampo,Maravatío de Ocampo,Urbano,https://postali.app/mx/michoacan/maravatio/arboledas-fovissste
 61252,Constituyentes,Fraccionamiento,Maravatío,Michoacán de Ocampo,Maravatío de Ocampo,Urbano,https://postali.app/mx/michoacan/maravatio/constituyentes
 61252,Cristo Rey,Colonia,Maravatío,Michoacán de Ocampo,Maravatío de Ocampo,Urbano,https://postali.app/mx/michoacan/maravatio/cristo-rey
@@ -7306,6 +7308,7 @@
 61252,El Fresnal,Rancho,Maravatío,Michoacán de Ocampo,Maravatío de Ocampo,Rural,https://postali.app/mx/michoacan/maravatio/el-fresnal
 61252,El Mirador,Colonia,Maravatío,Michoacán de Ocampo,Maravatío de Ocampo,Urbano,https://postali.app/mx/michoacan/maravatio/el-mirador
 61252,INFONAVIT,Unidad habitacional,Maravatío,Michoacán de Ocampo,Maravatío de Ocampo,Urbano,https://postali.app/mx/michoacan/maravatio/infonavit
+61252,Las Américas,Fraccionamiento,Maravatío,Michoacán de Ocampo,Maravatío de Ocampo,Urbano,https://postali.app/mx/michoacan/maravatio/las-americas
 61252,Las Arenas,Colonia,Maravatío,Michoacán de Ocampo,Maravatío de Ocampo,Urbano,https://postali.app/mx/michoacan/maravatio/las-arenas
 61252,Las Flores,Colonia,Maravatío,Michoacán de Ocampo,Maravatío de Ocampo,Urbano,https://postali.app/mx/michoacan/maravatio/las-flores
 61252,Las Praderas,Colonia,Maravatío,Michoacán de Ocampo,Maravatío de Ocampo,Urbano,https://postali.app/mx/michoacan/maravatio/las-praderas
@@ -7330,6 +7333,7 @@
 61253,San Cristóbal,Colonia,Maravatío,Michoacán de Ocampo,Maravatío de Ocampo,Urbano,https://postali.app/mx/michoacan/maravatio/san-cristobal
 61253,San Miguel,Colonia,Maravatío,Michoacán de Ocampo,Maravatío de Ocampo,Urbano,https://postali.app/mx/michoacan/maravatio/san-miguel
 61253,Santa Rita,Rancho,Maravatío,Michoacán de Ocampo,Maravatío de Ocampo,Rural,https://postali.app/mx/michoacan/maravatio/santa-rita
+61253,Santa Rosa,Colonia,Maravatío,Michoacán de Ocampo,Maravatío de Ocampo,Urbano,https://postali.app/mx/michoacan/maravatio/santa-rosa
 61253,Urbana,Colonia,Maravatío,Michoacán de Ocampo,Maravatío de Ocampo,Urbano,https://postali.app/mx/michoacan/maravatio/urbana
 61254,Balbuena,Colonia,Maravatío,Michoacán de Ocampo,Maravatío de Ocampo,Urbano,https://postali.app/mx/michoacan/maravatio/balbuena
 61254,Diana Laura,Colonia,Maravatío,Michoacán de Ocampo,Maravatío de Ocampo,Urbano,https://postali.app/mx/michoacan/maravatio/diana-laura
@@ -7372,7 +7376,7 @@
 61259,Las Pomas,Ranchería,Maravatío,Michoacán de Ocampo,,Rural,https://postali.app/mx/michoacan/maravatio/las-pomas
 61259,Pomas (Poblado de Dolores),Ejido,Maravatío,Michoacán de Ocampo,,Rural,https://postali.app/mx/michoacan/maravatio/pomas-poblado-de-dolores
 61259,Santa Elena,Ejido,Maravatío,Michoacán de Ocampo,,Rural,https://postali.app/mx/michoacan/maravatio/santa-elena
-61259,Santa Rosa,Ranchería,Maravatío,Michoacán de Ocampo,,Rural,https://postali.app/mx/michoacan/maravatio/santa-rosa
+61259,Santa Rosa,Ranchería,Maravatío,Michoacán de Ocampo,,Rural,https://postali.app/mx/michoacan/maravatio/santa-rosa-61259
 61259,Torre Blanca (Guapamacátaro),Ranchería,Maravatío,Michoacán de Ocampo,,Rural,https://postali.app/mx/michoacan/maravatio/torre-blanca-guapamacataro
 61260,Agua Dulce,Rancho,Maravatío,Michoacán de Ocampo,,Rural,https://postali.app/mx/michoacan/maravatio/agua-dulce
 61260,La Tuna Mansa,Rancho,Maravatío,Michoacán de Ocampo,,Rural,https://postali.app/mx/michoacan/maravatio/la-tuna-mansa
@@ -7477,6 +7481,7 @@
 61280,El Tejocote,Colonia,Irimbo,Michoacán de Ocampo,,Urbano,https://postali.app/mx/michoacan/irimbo/el-tejocote
 61280,El Tinaco,Colonia,Irimbo,Michoacán de Ocampo,,Urbano,https://postali.app/mx/michoacan/irimbo/el-tinaco
 61280,Guadalupe,Colonia,Irimbo,Michoacán de Ocampo,,Urbano,https://postali.app/mx/michoacan/irimbo/guadalupe
+61280,Héroes de México,Colonia,Irimbo,Michoacán de Ocampo,,Urbano,https://postali.app/mx/michoacan/irimbo/heroes-de-mexico
 61280,Irimbo,Pueblo,Irimbo,Michoacán de Ocampo,,Urbano,https://postali.app/mx/michoacan/irimbo/irimbo
 61280,Jesús Sotelo,Colonia,Irimbo,Michoacán de Ocampo,,Urbano,https://postali.app/mx/michoacan/irimbo/jesus-sotelo
 61280,La Lagunita,Colonia,Irimbo,Michoacán de Ocampo,,Urbano,https://postali.app/mx/michoacan/irimbo/la-lagunita
