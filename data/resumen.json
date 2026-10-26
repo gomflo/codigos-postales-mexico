@@ -2,13 +2,13 @@
   "fuente": "https://postali.app",
   "paises": {
     "mx": {
-      "filas": 159368,
+      "filas": 159382,
       "codigos_postales": 31867,
       "municipios": 2478,
       "nivel1": 32,
-      "sha256": "b1428d74497744048c1f66375d9ff9c427803fea1349eae8b18f07bd6f600eeb",
-      "bytes": 20786332,
-      "actualizado": "2026-10-19",
+      "sha256": "1e6d6bd00a4d065bbfa4aae94eceb29f18a8a032d0643dce4a2a3ab3c808d067",
+      "bytes": 20787795,
+      "actualizado": "2026-10-26",
       "origen": "https://postali.app/mx/datos/codigos-postales.csv"
     },
     "co": {
