@@ -727,6 +727,7 @@
 39270,Mecatepec,Pueblo,Tecoanapa,Guerrero,,Rural,https://postali.app/mx/guerrero/tecoanapa/mecatepec
 39270,Ocotitlán,Pueblo,Tecoanapa,Guerrero,,Rural,https://postali.app/mx/guerrero/tecoanapa/ocotitlan
 39270,Parota Seca,Pueblo,Tecoanapa,Guerrero,,Rural,https://postali.app/mx/guerrero/tecoanapa/parota-seca
+39270,Parotilla,Ranchería,Tecoanapa,Guerrero,,Rural,https://postali.app/mx/guerrero/tecoanapa/parotilla
 39270,San Francisco,Pueblo,Tecoanapa,Guerrero,,Rural,https://postali.app/mx/guerrero/tecoanapa/san-francisco
 39270,San Isidro,Colonia,Tecoanapa,Guerrero,,Rural,https://postali.app/mx/guerrero/tecoanapa/san-isidro
 39270,San Juan,Colonia,Tecoanapa,Guerrero,,Rural,https://postali.app/mx/guerrero/tecoanapa/san-juan
@@ -738,6 +739,7 @@
 39272,Buenavista de Allende,Pueblo,Tecoanapa,Guerrero,,Rural,https://postali.app/mx/guerrero/tecoanapa/buenavista-de-allende
 39272,Lagunillas,Ranchería,Tecoanapa,Guerrero,,Rural,https://postali.app/mx/guerrero/tecoanapa/lagunillas
 39273,Cruz Quemada,Pueblo,Tecoanapa,Guerrero,,Rural,https://postali.app/mx/guerrero/tecoanapa/cruz-quemada
+39273,Las Palmitas,Ranchería,Tecoanapa,Guerrero,,Rural,https://postali.app/mx/guerrero/tecoanapa/las-palmitas
 39273,Tehuitzingo,Pueblo,Tecoanapa,Guerrero,,Rural,https://postali.app/mx/guerrero/tecoanapa/tehuitzingo
 39274,El Pericón,Pueblo,Tecoanapa,Guerrero,,Rural,https://postali.app/mx/guerrero/tecoanapa/el-pericon
 39275,Tecuantepec,Ranchería,Tecoanapa,Guerrero,,Rural,https://postali.app/mx/guerrero/tecoanapa/tecuantepec
@@ -747,20 +749,18 @@
 39279,San Martín,Ranchería,Tecoanapa,Guerrero,,Rural,https://postali.app/mx/guerrero/tecoanapa/san-martin
 39280,Las Animas,Pueblo,Tecoanapa,Guerrero,,Rural,https://postali.app/mx/guerrero/tecoanapa/las-animas
 39281,Barrio Nuevo,Pueblo,Tecoanapa,Guerrero,,Rural,https://postali.app/mx/guerrero/tecoanapa/barrio-nuevo
-39281,Parotilla,Ranchería,Tecoanapa,Guerrero,,Rural,https://postali.app/mx/guerrero/tecoanapa/parotilla
 39281,Tepintepec,Pueblo,Tecoanapa,Guerrero,,Rural,https://postali.app/mx/guerrero/tecoanapa/tepintepec
 39282,Santa Rosa,Pueblo,Tecoanapa,Guerrero,,Rural,https://postali.app/mx/guerrero/tecoanapa/santa-rosa
 39282,Tlayoyotepec,Pueblo,Tecoanapa,Guerrero,,Rural,https://postali.app/mx/guerrero/tecoanapa/tlayoyotepec
 39283,El Carrizo,Ranchería,Tecoanapa,Guerrero,,Rural,https://postali.app/mx/guerrero/tecoanapa/el-carrizo
 39283,El Tejoruco (Tejoruco),Ranchería,Tecoanapa,Guerrero,,Rural,https://postali.app/mx/guerrero/tecoanapa/el-tejoruco-tejoruco
+39284,El Tejolote,Ranchería,Tecoanapa,Guerrero,,Rural,https://postali.app/mx/guerrero/tecoanapa/el-tejolote
 39284,Rancho Nuevo,Ranchería,Tecoanapa,Guerrero,,Rural,https://postali.app/mx/guerrero/tecoanapa/rancho-nuevo
 39284,San Juan las Palmas,Ranchería,Tecoanapa,Guerrero,,Rural,https://postali.app/mx/guerrero/tecoanapa/san-juan-las-palmas
 39286,El Amatal,Ranchería,Tecoanapa,Guerrero,,Rural,https://postali.app/mx/guerrero/tecoanapa/el-amatal
 39286,El Tecorral,Ranchería,Tecoanapa,Guerrero,,Rural,https://postali.app/mx/guerrero/tecoanapa/el-tecorral
 39286,Villa Hermosa,Ranchería,Tecoanapa,Guerrero,,Rural,https://postali.app/mx/guerrero/tecoanapa/villa-hermosa
-39287,El Tejolote,Ranchería,Tecoanapa,Guerrero,,Rural,https://postali.app/mx/guerrero/tecoanapa/el-tejolote
 39287,Las Crucitas,Ranchería,Tecoanapa,Guerrero,,Rural,https://postali.app/mx/guerrero/tecoanapa/las-crucitas
-39287,Las Palmas,Ranchería,Tecoanapa,Guerrero,,Rural,https://postali.app/mx/guerrero/tecoanapa/las-palmas
 39288,El Potrero,Ranchería,Tecoanapa,Guerrero,,Rural,https://postali.app/mx/guerrero/tecoanapa/el-potrero
 39288,Tejoruquito,Ranchería,Tecoanapa,Guerrero,,Rural,https://postali.app/mx/guerrero/tecoanapa/tejoruquito
 39289,Carabalincito,Ranchería,Tecoanapa,Guerrero,,Rural,https://postali.app/mx/guerrero/tecoanapa/carabalincito
@@ -4793,6 +4793,7 @@
 41643,Yuvinani,Pueblo,Metlatónoc,Guerrero,,Rural,https://postali.app/mx/guerrero/metlatonoc/yuvinani
 41644,Mini Nuhuma,Ranchería,Metlatónoc,Guerrero,,Rural,https://postali.app/mx/guerrero/metlatonoc/mini-nuhuma
 41645,Itia-Zuti,Pueblo,Metlatónoc,Guerrero,,Rural,https://postali.app/mx/guerrero/metlatonoc/itia-zuti
+41646,San Miguelito,Ranchería,Metlatónoc,Guerrero,,Rural,https://postali.app/mx/guerrero/metlatonoc/san-miguelito
 41646,Valle Hermoso,Pueblo,Metlatónoc,Guerrero,,Rural,https://postali.app/mx/guerrero/metlatonoc/valle-hermoso
 41650,Tehuixtepec,Ranchería,Metlatónoc,Guerrero,,Rural,https://postali.app/mx/guerrero/metlatonoc/tehuixtepec
 41654,Chilixtlahuaca,Pueblo,Metlatónoc,Guerrero,,Rural,https://postali.app/mx/guerrero/metlatonoc/chilixtlahuaca
@@ -4978,12 +4979,22 @@
 41668,Yuvi Xa Tiyoo,Ranchería,Cochoapa el Grande,Guerrero,,Rural,https://postali.app/mx/guerrero/cochoapa-el-grande/yuvi-xa-tiyoo
 41669,El Coyul,Pueblo,Cochoapa el Grande,Guerrero,,Rural,https://postali.app/mx/guerrero/cochoapa-el-grande/el-coyul
 41670,Alcozauca de Guerrero,Pueblo,Alcozauca de Guerrero,Guerrero,,Rural,https://postali.app/mx/guerrero/alcozauca-de-guerrero/alcozauca-de-guerrero
+41670,Cruz Verde,Colonia,Alcozauca de Guerrero,Guerrero,,Urbano,https://postali.app/mx/guerrero/alcozauca-de-guerrero/cruz-verde
 41670,Cuyuxtlahuac,Pueblo,Alcozauca de Guerrero,Guerrero,,Rural,https://postali.app/mx/guerrero/alcozauca-de-guerrero/cuyuxtlahuac
+41670,El Calvario,Colonia,Alcozauca de Guerrero,Guerrero,,Urbano,https://postali.app/mx/guerrero/alcozauca-de-guerrero/el-calvario
+41670,Guadalupe,Colonia,Alcozauca de Guerrero,Guerrero,,Urbano,https://postali.app/mx/guerrero/alcozauca-de-guerrero/guadalupe
 41670,Ixcuinatoyac,Pueblo,Alcozauca de Guerrero,Guerrero,,Rural,https://postali.app/mx/guerrero/alcozauca-de-guerrero/ixcuinatoyac
 41670,Las Mesitas,Colonia,Alcozauca de Guerrero,Guerrero,,Urbano,https://postali.app/mx/guerrero/alcozauca-de-guerrero/las-mesitas
+41670,Loma Bonita San Miguel el Grande,Colonia,Alcozauca de Guerrero,Guerrero,,Rural,https://postali.app/mx/guerrero/alcozauca-de-guerrero/loma-bonita-san-miguel-el-grande
+41670,Lázaro Cárdenas,Colonia,Alcozauca de Guerrero,Guerrero,,Urbano,https://postali.app/mx/guerrero/alcozauca-de-guerrero/lazaro-cardenas
 41670,Melchor Ocampo,Pueblo,Alcozauca de Guerrero,Guerrero,,Rural,https://postali.app/mx/guerrero/alcozauca-de-guerrero/melchor-ocampo
+41670,Nuevo Zaragoza,Ranchería,Alcozauca de Guerrero,Guerrero,,Rural,https://postali.app/mx/guerrero/alcozauca-de-guerrero/nuevo-zaragoza
+41670,Pueblo de Dios,Ranchería,Alcozauca de Guerrero,Guerrero,,Rural,https://postali.app/mx/guerrero/alcozauca-de-guerrero/pueblo-de-dios
+41670,San Antonio,Colonia,Alcozauca de Guerrero,Guerrero,,Rural,https://postali.app/mx/guerrero/alcozauca-de-guerrero/san-antonio
+41670,San Martín,Ranchería,Alcozauca de Guerrero,Guerrero,,Rural,https://postali.app/mx/guerrero/alcozauca-de-guerrero/san-martin
 41670,San Miguel El Grande,Pueblo,Alcozauca de Guerrero,Guerrero,,Rural,https://postali.app/mx/guerrero/alcozauca-de-guerrero/san-miguel-el-grande
 41670,San Vicente Zoyatlán,Pueblo,Alcozauca de Guerrero,Guerrero,,Rural,https://postali.app/mx/guerrero/alcozauca-de-guerrero/san-vicente-zoyatlan
+41670,Santa Mónica,Colonia,Alcozauca de Guerrero,Guerrero,,Urbano,https://postali.app/mx/guerrero/alcozauca-de-guerrero/santa-monica
 41670,Tlahuapa,Pueblo,Alcozauca de Guerrero,Guerrero,,Rural,https://postali.app/mx/guerrero/alcozauca-de-guerrero/tlahuapa
 41670,Xochapa,Pueblo,Alcozauca de Guerrero,Guerrero,,Rural,https://postali.app/mx/guerrero/alcozauca-de-guerrero/xochapa
 41671,Xonacatlán,Pueblo,Alcozauca de Guerrero,Guerrero,,Rural,https://postali.app/mx/guerrero/alcozauca-de-guerrero/xonacatlan

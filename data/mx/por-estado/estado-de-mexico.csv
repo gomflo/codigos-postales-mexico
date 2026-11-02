@@ -1,5 +1,6 @@
 ﻿codigo_postal,asentamiento,tipo,municipio,estado,ciudad,zona,url
 50000,Toluca de Lerdo Centro,Colonia,Toluca,México,Toluca de Lerdo,Urbano,https://postali.app/mx/estado-de-mexico/toluca/toluca-de-lerdo-centro
+50010,Buenavista,Colonia,Toluca,México,Toluca de Lerdo,Urbano,https://postali.app/mx/estado-de-mexico/toluca/buenavista
 50010,Celanese,Colonia,Toluca,México,Toluca de Lerdo,Urbano,https://postali.app/mx/estado-de-mexico/toluca/celanese
 50010,Club Jardín,Colonia,Toluca,México,Toluca de Lerdo,Urbano,https://postali.app/mx/estado-de-mexico/toluca/club-jardin
 50010,Del Panteón,Barrio,Toluca,México,Toluca de Lerdo,Urbano,https://postali.app/mx/estado-de-mexico/toluca/del-panteon
@@ -26,7 +27,6 @@
 50010,Universidad,Fraccionamiento,Toluca,México,Toluca de Lerdo,Urbano,https://postali.app/mx/estado-de-mexico/toluca/universidad
 50010,Villas Tepaltitlán,Fraccionamiento,Toluca,México,Toluca de Lerdo,Urbano,https://postali.app/mx/estado-de-mexico/toluca/villas-tepaltitlan
 50016,Jardines de la Crespa,Unidad habitacional,Toluca,México,Toluca de Lerdo,Urbano,https://postali.app/mx/estado-de-mexico/toluca/jardines-de-la-crespa
-50016,Parque industrial San Antonio,Zona industrial,Toluca,México,Toluca de Lerdo,Urbano,https://postali.app/mx/estado-de-mexico/toluca/parque-industrial-san-antonio
 50017,Brisas,Fraccionamiento,Toluca,México,Toluca de Lerdo,Urbano,https://postali.app/mx/estado-de-mexico/toluca/brisas
 50017,Rincón de San Lorenzo,Colonia,Toluca,México,Toluca de Lerdo,Urbano,https://postali.app/mx/estado-de-mexico/toluca/rincon-de-san-lorenzo
 50020,3 Caminos,Colonia,Toluca,México,Toluca de Lerdo,Urbano,https://postali.app/mx/estado-de-mexico/toluca/3-caminos
@@ -368,7 +368,7 @@
 50265,Tierra Coloradas,Colonia,Toluca,México,,Urbano,https://postali.app/mx/estado-de-mexico/toluca/tierra-coloradas
 50265,Villas Santa Isabel,Fraccionamiento,Toluca,México,,Urbano,https://postali.app/mx/estado-de-mexico/toluca/villas-santa-isabel
 50266,San Antonio Buenavista,Pueblo,Toluca,México,,Rural,https://postali.app/mx/estado-de-mexico/toluca/san-antonio-buenavista
-50270,Buenavista,Barrio,Toluca,México,,Urbano,https://postali.app/mx/estado-de-mexico/toluca/buenavista
+50270,Buenavista,Barrio,Toluca,México,,Urbano,https://postali.app/mx/estado-de-mexico/toluca/buenavista-50270
 50270,El Pedregal,Barrio,Toluca,México,,Rural,https://postali.app/mx/estado-de-mexico/toluca/el-pedregal
 50270,San Pablo,Colonia,Toluca,México,,Rural,https://postali.app/mx/estado-de-mexico/toluca/san-pablo-50270
 50270,Tecaxic,Pueblo,Toluca,México,,Rural,https://postali.app/mx/estado-de-mexico/toluca/tecaxic

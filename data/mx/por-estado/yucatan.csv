@@ -599,6 +599,7 @@
 97312,Providencia,Fraccionamiento,Mérida,Yucatán,,Urbano,https://postali.app/mx/yucatan/merida/providencia
 97312,Solana Residencial,Fraccionamiento,Mérida,Yucatán,,Rural,https://postali.app/mx/yucatan/merida/solana-residencial
 97312,Tixcacal,Pueblo,Mérida,Yucatán,,Rural,https://postali.app/mx/yucatan/merida/tixcacal
+97312,Tixcacal Paseos de Mérida,Fraccionamiento,Mérida,Yucatán,,Rural,https://postali.app/mx/yucatan/merida/tixcacal-paseos-de-merida
 97314,Arboleda,Fraccionamiento,Mérida,Yucatán,,Urbano,https://postali.app/mx/yucatan/merida/arboleda
 97314,Balcones II,Fraccionamiento,Mérida,Yucatán,,Urbano,https://postali.app/mx/yucatan/merida/balcones-ii
 97314,Boulevares,Fraccionamiento,Mérida,Yucatán,,Urbano,https://postali.app/mx/yucatan/merida/boulevares
@@ -676,7 +677,7 @@
 97336,Yucalpeten,Puerto,Progreso,Yucatán,,Rural,https://postali.app/mx/yucatan/progreso/yucalpeten
 97337,Muelle y Puerto de Altura,Zona federal,Progreso,Yucatán,,Rural,https://postali.app/mx/yucatan/progreso/muelle-y-puerto-de-altura
 97340,Chicxulub,Pueblo,Chicxulub Pueblo,Yucatán,,Rural,https://postali.app/mx/yucatan/chicxulub-pueblo/chicxulub
-97342,Quintas Baspul,Fraccionamiento,Chicxulub Pueblo,Yucatán,,Rural,https://postali.app/mx/yucatan/chicxulub-pueblo/quintas-baspul
+97340,Quintas Baspul,Fraccionamiento,Chicxulub Pueblo,Yucatán,,Rural,https://postali.app/mx/yucatan/chicxulub-pueblo/quintas-baspul
 97343,Concepción,Pueblo,Ixil,Yucatán,,Rural,https://postali.app/mx/yucatan/ixil/concepcion
 97343,Ixil,Pueblo,Ixil,Yucatán,,Rural,https://postali.app/mx/yucatan/ixil/ixil
 97343,San Rafael,Pueblo,Ixil,Yucatán,,Rural,https://postali.app/mx/yucatan/ixil/san-rafael
@@ -703,6 +704,7 @@
 97345,Residencial San Jerónimo,Fraccionamiento,Conkal,Yucatán,,Urbano,https://postali.app/mx/yucatan/conkal/residencial-san-jeronimo
 97345,Residencial Santa Isabel,Fraccionamiento,Conkal,Yucatán,,Urbano,https://postali.app/mx/yucatan/conkal/residencial-santa-isabel
 97345,Salomea,Fraccionamiento,Conkal,Yucatán,,Urbano,https://postali.app/mx/yucatan/conkal/salomea
+97345,San Diego Cutz,Hacienda,Conkal,Yucatán,,Rural,https://postali.app/mx/yucatan/conkal/san-diego-cutz
 97345,San Nicolás,Fraccionamiento,Conkal,Yucatán,,Urbano,https://postali.app/mx/yucatan/conkal/san-nicolas
 97345,Santa Cruz,Fraccionamiento,Conkal,Yucatán,,Urbano,https://postali.app/mx/yucatan/conkal/santa-cruz
 97345,Tamán Residencial,Fraccionamiento,Conkal,Yucatán,,Urbano,https://postali.app/mx/yucatan/conkal/taman-residencial
@@ -855,7 +857,9 @@
 97390,Dzibikal,Colonia,Umán,Yucatán,,Urbano,https://postali.app/mx/yucatan/uman/dzibikal
 97390,El Oasis,Fraccionamiento,Umán,Yucatán,,Urbano,https://postali.app/mx/yucatan/uman/el-oasis
 97390,Felipe Carrillo Puerto,Colonia,Umán,Yucatán,,Urbano,https://postali.app/mx/yucatan/uman/felipe-carrillo-puerto
+97390,Gran Calzada,Fraccionamiento,Umán,Yucatán,,Urbano,https://postali.app/mx/yucatan/uman/gran-calzada
 97390,Jardines de San Rafael,Fraccionamiento,Umán,Yucatán,,Urbano,https://postali.app/mx/yucatan/uman/jardines-de-san-rafael
+97390,Jerusalén,Fraccionamiento,Umán,Yucatán,,Urbano,https://postali.app/mx/yucatan/uman/jerusalen
 97390,La Candelaria,Colonia,Umán,Yucatán,,Urbano,https://postali.app/mx/yucatan/uman/la-candelaria
 97390,La Mejorada,Colonia,Umán,Yucatán,,Urbano,https://postali.app/mx/yucatan/uman/la-mejorada
 97390,Las Perlas de Umán,Fraccionamiento,Umán,Yucatán,,Urbano,https://postali.app/mx/yucatan/uman/las-perlas-de-uman
@@ -863,16 +867,20 @@
 97390,Los Arcos I,Fraccionamiento,Umán,Yucatán,,Urbano,https://postali.app/mx/yucatan/uman/los-arcos-i
 97390,Los Arcos II,Fraccionamiento,Umán,Yucatán,,Urbano,https://postali.app/mx/yucatan/uman/los-arcos-ii
 97390,Los Ceibos,Colonia,Umán,Yucatán,,Urbano,https://postali.app/mx/yucatan/uman/los-ceibos
+97390,Los Colorines,Fraccionamiento,Umán,Yucatán,,Urbano,https://postali.app/mx/yucatan/uman/los-colorines
 97390,Lázaro Cárdenas,Colonia,Umán,Yucatán,,Urbano,https://postali.app/mx/yucatan/uman/lazaro-cardenas
 97390,Miguel Hidalgo y Costilla,Colonia,Umán,Yucatán,,Urbano,https://postali.app/mx/yucatan/uman/miguel-hidalgo-y-costilla
 97390,Residencial San Lázaro,Fraccionamiento,Umán,Yucatán,,Urbano,https://postali.app/mx/yucatan/uman/residencial-san-lazaro
+97390,Rinconada de Umán,Fraccionamiento,Umán,Yucatán,,Urbano,https://postali.app/mx/yucatan/uman/rinconada-de-uman
 97390,San Carlos,Colonia,Umán,Yucatán,,Urbano,https://postali.app/mx/yucatan/uman/san-carlos
 97390,San Felipe,Colonia,Umán,Yucatán,,Urbano,https://postali.app/mx/yucatan/uman/san-felipe
 97390,San Lorenzo,Fraccionamiento,Umán,Yucatán,,Semiurbano,https://postali.app/mx/yucatan/uman/san-lorenzo
 97390,Santa Elena,Colonia,Umán,Yucatán,,Urbano,https://postali.app/mx/yucatan/uman/santa-elena
 97390,Santa Mónica,Fraccionamiento,Umán,Yucatán,,Urbano,https://postali.app/mx/yucatan/uman/santa-monica
 97390,Siglo XXI,Colonia,Umán,Yucatán,,Urbano,https://postali.app/mx/yucatan/uman/siglo-xxi
+97390,Taníl,Colonia,Umán,Yucatán,,Urbano,https://postali.app/mx/yucatan/uman/tanil
 97390,Villas de Umán Norte,Fraccionamiento,Umán,Yucatán,,Urbano,https://postali.app/mx/yucatan/uman/villas-de-uman-norte
+97390,Villas las Vallas,Fraccionamiento,Umán,Yucatán,,Urbano,https://postali.app/mx/yucatan/uman/villas-las-vallas
 97392,El Roble Agrícola IV,Colonia,Umán,Yucatán,,Urbano,https://postali.app/mx/yucatan/uman/el-roble-agricola-iv
 97392,Itzincab,Fraccionamiento,Umán,Yucatán,,Rural,https://postali.app/mx/yucatan/uman/itzincab
 97392,Piedra de Agua,Fraccionamiento,Umán,Yucatán,,Urbano,https://postali.app/mx/yucatan/uman/piedra-de-agua
@@ -880,7 +888,7 @@
 97393,Oxcum,Pueblo,Umán,Yucatán,,Rural,https://postali.app/mx/yucatan/uman/oxcum
 97394,Gran Santa Cruz,Fraccionamiento,Umán,Yucatán,,Rural,https://postali.app/mx/yucatan/uman/gran-santa-cruz
 97394,Petecbiltun,Pueblo,Umán,Yucatán,,Rural,https://postali.app/mx/yucatan/uman/petecbiltun
-97394,Taníl,Pueblo,Umán,Yucatán,,Rural,https://postali.app/mx/yucatan/uman/tanil
+97394,Taníl,Pueblo,Umán,Yucatán,,Rural,https://postali.app/mx/yucatan/uman/tanil-97394
 97394,Tebec,Pueblo,Umán,Yucatán,,Rural,https://postali.app/mx/yucatan/uman/tebec
 97394,Ticimul,Pueblo,Umán,Yucatán,,Rural,https://postali.app/mx/yucatan/uman/ticimul
 97394,Xcucul Sur,Pueblo,Umán,Yucatán,,Rural,https://postali.app/mx/yucatan/uman/xcucul-sur
@@ -1423,24 +1431,37 @@
 97796,Uayma,Pueblo,Uayma,Yucatán,,Rural,https://postali.app/mx/yucatan/uayma/uayma
 97798,Santa María,Pueblo,Uayma,Yucatán,,Rural,https://postali.app/mx/yucatan/uayma/santa-maria
 97799,San Lorenzo,Rancho,Uayma,Yucatán,,Rural,https://postali.app/mx/yucatan/uayma/san-lorenzo
+97800,Belem,Colonia,Maxcanú,Yucatán,,Urbano,https://postali.app/mx/yucatan/maxcanu/belem
+97800,Bugambilias,Fraccionamiento,Maxcanú,Yucatán,,Urbano,https://postali.app/mx/yucatan/maxcanu/bugambilias
+97800,Carrillo Puerto,Colonia,Maxcanú,Yucatán,,Urbano,https://postali.app/mx/yucatan/maxcanu/carrillo-puerto
 97800,Guadalupe,Colonia,Maxcanú,Yucatán,,Rural,https://postali.app/mx/yucatan/maxcanu/guadalupe
+97800,La Colonia,Colonia,Maxcanú,Yucatán,,Urbano,https://postali.app/mx/yucatan/maxcanu/la-colonia
 97800,La Sirena,Colonia,Maxcanú,Yucatán,,Urbano,https://postali.app/mx/yucatan/maxcanu/la-sirena
-97800,Maxcanu,Pueblo,Maxcanú,Yucatán,,Rural,https://postali.app/mx/yucatan/maxcanu/maxcanu
+97800,Las Tres Cruces,Colonia,Maxcanú,Yucatán,,Urbano,https://postali.app/mx/yucatan/maxcanu/las-tres-cruces
+97800,Lázaro Cárdenas,Colonia,Maxcanú,Yucatán,,Urbano,https://postali.app/mx/yucatan/maxcanu/lazaro-cardenas
+97800,Maxcanú Centro,Colonia,Maxcanú,Yucatán,,Rural,https://postali.app/mx/yucatan/maxcanu/maxcanu-centro
+97800,Monty,Colonia,Maxcanú,Yucatán,,Urbano,https://postali.app/mx/yucatan/maxcanu/monty
+97800,Puertas del Sol,Fraccionamiento,Maxcanú,Yucatán,,Urbano,https://postali.app/mx/yucatan/maxcanu/puertas-del-sol
 97800,San Patricio,Colonia,Maxcanú,Yucatán,,Rural,https://postali.app/mx/yucatan/maxcanu/san-patricio
+97800,San Patricio Pichulá,Colonia,Maxcanú,Yucatán,,Urbano,https://postali.app/mx/yucatan/maxcanu/san-patricio-pichula
+97800,San Periquito,Colonia,Maxcanú,Yucatán,,Urbano,https://postali.app/mx/yucatan/maxcanu/san-periquito
+97800,San Román,Colonia,Maxcanú,Yucatán,,Urbano,https://postali.app/mx/yucatan/maxcanu/san-roman
+97800,Santa Rita,Colonia,Maxcanú,Yucatán,,Urbano,https://postali.app/mx/yucatan/maxcanu/santa-rita
+97800,Zaragoza,Colonia,Maxcanú,Yucatán,,Urbano,https://postali.app/mx/yucatan/maxcanu/zaragoza
 97803,Chan Chocholá (Santa Eduviges Chan Chocholá),Pueblo,Maxcanú,Yucatán,,Rural,https://postali.app/mx/yucatan/maxcanu/chan-chochola-santa-eduviges-chan-chochola
 97803,Granada (Chican Granada),Pueblo,Maxcanú,Yucatán,,Rural,https://postali.app/mx/yucatan/maxcanu/granada-chican-granada
 97803,Kanachén,Pueblo,Maxcanú,Yucatán,,Rural,https://postali.app/mx/yucatan/maxcanu/kanachen
 97803,Santa Cruz,Pueblo,Maxcanú,Yucatán,,Rural,https://postali.app/mx/yucatan/maxcanu/santa-cruz
 97804,Coahuila (Santa Teresa Coahuila),Pueblo,Maxcanú,Yucatán,,Rural,https://postali.app/mx/yucatan/maxcanu/coahuila-santa-teresa-coahuila
 97804,Kochol,Pueblo,Maxcanú,Yucatán,,Rural,https://postali.app/mx/yucatan/maxcanu/kochol
-97804,Lázaro Cárdenas,Rancho,Maxcanú,Yucatán,,Rural,https://postali.app/mx/yucatan/maxcanu/lazaro-cardenas
+97804,Lázaro Cárdenas,Rancho,Maxcanú,Yucatán,,Rural,https://postali.app/mx/yucatan/maxcanu/lazaro-cardenas-97804
 97804,Paraíso,Pueblo,Maxcanú,Yucatán,,Rural,https://postali.app/mx/yucatan/maxcanu/paraiso
-97804,San Fernando,Hacienda,Maxcanú,Yucatán,,Rural,https://postali.app/mx/yucatan/maxcanu/san-fernando
+97804,San Fernando,Colonia,Maxcanú,Yucatán,,Rural,https://postali.app/mx/yucatan/maxcanu/san-fernando
 97804,Santa Rosa,Ranchería,Maxcanú,Yucatán,,Rural,https://postali.app/mx/yucatan/maxcanu/santa-rosa
-97804,Santo Domingo,Hacienda,Maxcanú,Yucatán,,Rural,https://postali.app/mx/yucatan/maxcanu/santo-domingo
+97804,Santo Domingo,Colonia,Maxcanú,Yucatán,,Rural,https://postali.app/mx/yucatan/maxcanu/santo-domingo
 97804,X-Cacal,Rancho,Maxcanú,Yucatán,,Rural,https://postali.app/mx/yucatan/maxcanu/x-cacal
 97804,Yaxcaba,Pueblo,Maxcanú,Yucatán,,Rural,https://postali.app/mx/yucatan/maxcanu/yaxcaba
-97805,Chunchucmil,Hacienda,Maxcanú,Yucatán,,Rural,https://postali.app/mx/yucatan/maxcanu/chunchucmil
+97805,Chunchucmil,Colonia,Maxcanú,Yucatán,,Rural,https://postali.app/mx/yucatan/maxcanu/chunchucmil
 97805,San Simón Sinkehuel,Pueblo,Maxcanú,Yucatán,,Rural,https://postali.app/mx/yucatan/maxcanu/san-simon-sinkehuel
 97806,San Rafael,Pueblo,Maxcanú,Yucatán,,Rural,https://postali.app/mx/yucatan/maxcanu/san-rafael
 97807,Chencoh,Pueblo,Maxcanú,Yucatán,,Rural,https://postali.app/mx/yucatan/maxcanu/chencoh

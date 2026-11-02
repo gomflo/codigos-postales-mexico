@@ -566,6 +566,7 @@
 34217,Predio el Ciprés,Colonia,Durango,Durango,Victoria de Durango,Urbano,https://postali.app/mx/durango/durango/predio-el-cipres
 34217,Predio el Tule,Colonia,Durango,Durango,Victoria de Durango,Urbano,https://postali.app/mx/durango/durango/predio-el-tule
 34217,Predio Rústico la Tinaja y los Lugos,Fraccionamiento,Durango,Durango,Victoria de Durango,Urbano,https://postali.app/mx/durango/durango/predio-rustico-la-tinaja-y-los-lugos
+34217,Privada Ciprés,Fraccionamiento,Durango,Durango,Victoria de Durango,Urbano,https://postali.app/mx/durango/durango/privada-cipres
 34217,Santa Elena,Fraccionamiento,Durango,Durango,Victoria de Durango,Urbano,https://postali.app/mx/durango/durango/santa-elena
 34218,Arturo Gámiz,Colonia,Durango,Durango,Victoria de Durango,Urbano,https://postali.app/mx/durango/durango/arturo-gamiz
 34219,José Revueltas,Colonia,Durango,Durango,Victoria de Durango,Urbano,https://postali.app/mx/durango/durango/jose-revueltas
@@ -7111,7 +7112,7 @@
 35945,La Planilla,Ranchería,San Juan de Guadalupe,Durango,,Rural,https://postali.app/mx/durango/san-juan-de-guadalupe/la-planilla
 35947,El Floreño,Ranchería,San Juan de Guadalupe,Durango,,Rural,https://postali.app/mx/durango/san-juan-de-guadalupe/el-floreno
 35950,General Simón Bolívar,Pueblo,General Simón Bolívar,Durango,,Urbano,https://postali.app/mx/durango/general-simon-bolivar/general-simon-bolivar
-35953,Ricardo Flores Magón,Ranchería,General Simón Bolívar,Durango,,Rural,https://postali.app/mx/durango/general-simon-bolivar/ricardo-flores-magon
+35953,Ricardo Flores Magón,Colonia,General Simón Bolívar,Durango,,Rural,https://postali.app/mx/durango/general-simon-bolivar/ricardo-flores-magon
 35954,José Trinidad García de la Cadena (San Rafael),Ejido,General Simón Bolívar,Durango,,Rural,https://postali.app/mx/durango/general-simon-bolivar/jose-trinidad-garcia-de-la-cadena-san-rafael
 35955,Santa Rosa,Ejido,General Simón Bolívar,Durango,,Rural,https://postali.app/mx/durango/general-simon-bolivar/santa-rosa
 35956,Santa Rosalía,Ejido,General Simón Bolívar,Durango,,Rural,https://postali.app/mx/durango/general-simon-bolivar/santa-rosalia
@@ -7119,29 +7120,29 @@
 35960,La Miseria,Ejido,General Simón Bolívar,Durango,,Rural,https://postali.app/mx/durango/general-simon-bolivar/la-miseria
 35960,San José de Zaragoza,Ejido,General Simón Bolívar,Durango,,Rural,https://postali.app/mx/durango/general-simon-bolivar/san-jose-de-zaragoza
 35960,San Luis de Corea,Ranchería,General Simón Bolívar,Durango,,Rural,https://postali.app/mx/durango/general-simon-bolivar/san-luis-de-corea
-35960,Sector Cuatro (El Rasguño),Ejido,General Simón Bolívar,Durango,,Rural,https://postali.app/mx/durango/general-simon-bolivar/sector-cuatro-el-rasguno
+35960,Sector Cuatro (El Rasguño),Rancho,General Simón Bolívar,Durango,,Rural,https://postali.app/mx/durango/general-simon-bolivar/sector-cuatro-el-rasguno
 35963,Noria San Antonio,Ejido,General Simón Bolívar,Durango,,Rural,https://postali.app/mx/durango/general-simon-bolivar/noria-san-antonio
 35963,San Antonio de Zaragoza,Ejido,General Simón Bolívar,Durango,,Rural,https://postali.app/mx/durango/general-simon-bolivar/san-antonio-de-zaragoza
-35965,Enrique Flores Magón,Ranchería,General Simón Bolívar,Durango,,Rural,https://postali.app/mx/durango/general-simon-bolivar/enrique-flores-magon
+35965,Enrique Flores Magón,Ejido,General Simón Bolívar,Durango,,Rural,https://postali.app/mx/durango/general-simon-bolivar/enrique-flores-magon
 35965,Ignacio Zaragoza,Ejido,General Simón Bolívar,Durango,,Rural,https://postali.app/mx/durango/general-simon-bolivar/ignacio-zaragoza
 35966,El Paso de las Trocas,Ranchería,General Simón Bolívar,Durango,,Rural,https://postali.app/mx/durango/general-simon-bolivar/el-paso-de-las-trocas
 35966,Noria de Sombreretillo,Ejido,General Simón Bolívar,Durango,,Rural,https://postali.app/mx/durango/general-simon-bolivar/noria-de-sombreretillo
-35966,Sombreretillo del Alto,Ranchería,General Simón Bolívar,Durango,,Rural,https://postali.app/mx/durango/general-simon-bolivar/sombreretillo-del-alto
-35970,Dieciocho de Marzo,Ranchería,General Simón Bolívar,Durango,,Rural,https://postali.app/mx/durango/general-simon-bolivar/dieciocho-de-marzo
+35966,Sombreretillo del Alto,Ejido,General Simón Bolívar,Durango,,Rural,https://postali.app/mx/durango/general-simon-bolivar/sombreretillo-del-alto
+35970,Dieciocho de Marzo,Ejido,General Simón Bolívar,Durango,,Rural,https://postali.app/mx/durango/general-simon-bolivar/dieciocho-de-marzo
 35973,Antón Martín,Ejido,General Simón Bolívar,Durango,,Rural,https://postali.app/mx/durango/general-simon-bolivar/anton-martin
 35973,El Refugio,Ejido,General Simón Bolívar,Durango,,Rural,https://postali.app/mx/durango/general-simon-bolivar/el-refugio
 35974,Cuatro Vientos (Vega Salada),Ejido,General Simón Bolívar,Durango,,Rural,https://postali.app/mx/durango/general-simon-bolivar/cuatro-vientos-vega-salada
-35974,El Jazminal,Ranchería,General Simón Bolívar,Durango,,Rural,https://postali.app/mx/durango/general-simon-bolivar/el-jazminal
+35974,El Jazminal,Rancho,General Simón Bolívar,Durango,,Rural,https://postali.app/mx/durango/general-simon-bolivar/el-jazminal
 35974,Huarichic (Huariche),Ejido,General Simón Bolívar,Durango,,Rural,https://postali.app/mx/durango/general-simon-bolivar/huarichic-huariche
 35974,Oriente Aguanaval,Ejido,General Simón Bolívar,Durango,,Rural,https://postali.app/mx/durango/general-simon-bolivar/oriente-aguanaval
 35975,El Recodo del Río,Ranchería,General Simón Bolívar,Durango,,Rural,https://postali.app/mx/durango/general-simon-bolivar/el-recodo-del-rio
 35975,La Nueva Reforma Agraria,Ejido,General Simón Bolívar,Durango,,Rural,https://postali.app/mx/durango/general-simon-bolivar/la-nueva-reforma-agraria
-35975,La Prontitud,Ejido,General Simón Bolívar,Durango,,Rural,https://postali.app/mx/durango/general-simon-bolivar/la-prontitud
+35975,La Prontitud,Ranchería,General Simón Bolívar,Durango,,Rural,https://postali.app/mx/durango/general-simon-bolivar/la-prontitud
 35977,La Esperanza,Ranchería,General Simón Bolívar,Durango,,Rural,https://postali.app/mx/durango/general-simon-bolivar/la-esperanza
 35980,San José de Reyes,Ejido,General Simón Bolívar,Durango,,Rural,https://postali.app/mx/durango/general-simon-bolivar/san-jose-de-reyes
 35980,San José de Sauces (Sauces),Ejido,General Simón Bolívar,Durango,,Rural,https://postali.app/mx/durango/general-simon-bolivar/san-jose-de-sauces-sauces
-35983,Guadalupe (El Chivo y la Coyota),Ranchería,General Simón Bolívar,Durango,,Rural,https://postali.app/mx/durango/general-simon-bolivar/guadalupe-el-chivo-y-la-coyota
-35983,San Vicente de Melones,Ranchería,General Simón Bolívar,Durango,,Rural,https://postali.app/mx/durango/general-simon-bolivar/san-vicente-de-melones
+35983,Guadalupe (El Chivo y la Coyota),Rancho,General Simón Bolívar,Durango,,Rural,https://postali.app/mx/durango/general-simon-bolivar/guadalupe-el-chivo-y-la-coyota
+35983,San Vicente de Melones,Ejido,General Simón Bolívar,Durango,,Rural,https://postali.app/mx/durango/general-simon-bolivar/san-vicente-de-melones
 35984,José Isabel Robles,Ejido,General Simón Bolívar,Durango,,Rural,https://postali.app/mx/durango/general-simon-bolivar/jose-isabel-robles
 35986,Pedro Celestino Negrete,Ejido,General Simón Bolívar,Durango,,Rural,https://postali.app/mx/durango/general-simon-bolivar/pedro-celestino-negrete
 35987,El Ensueño (El Papalote),Ranchería,General Simón Bolívar,Durango,,Rural,https://postali.app/mx/durango/general-simon-bolivar/el-ensueno-el-papalote

@@ -116,7 +116,7 @@ ceros a la izquierda (`01000`).
 <!-- conteos:inicio -->
 | País | Archivo | Filas | Códigos postales | Municipios | Última actualización |
 |---|---|---:|---:|---:|---|
-| México | `data/mx/codigos-postales.csv` | 159,382 | 31,867 | 2,478 | 2026-10-26 |
+| México | `data/mx/codigos-postales.csv` | 159,437 | 31,866 | 2,478 | 2026-11-02 |
 | Colombia | `data/co/codigos-postales.csv` | 3,681 | 3,681 | 1,122 | 2026-09-27 |
 | España | `data/es/codigos-postales.csv` | 37,867 | 11,150 | 6,706 | 2026-09-27 |
 <!-- conteos:fin -->
