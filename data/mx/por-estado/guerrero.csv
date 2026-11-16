@@ -478,6 +478,7 @@
 39172,6 de Noviembre,Colonia,Tixtla de Guerrero,Guerrero,Tixtla de Guerrero,Urbano,https://postali.app/mx/guerrero/tixtla-de-guerrero/6-de-noviembre
 39172,Chichipico,Colonia,Tixtla de Guerrero,Guerrero,Tixtla de Guerrero,Urbano,https://postali.app/mx/guerrero/tixtla-de-guerrero/chichipico
 39172,Emiliano Zapata,Colonia,Tixtla de Guerrero,Guerrero,Tixtla de Guerrero,Urbano,https://postali.app/mx/guerrero/tixtla-de-guerrero/emiliano-zapata
+39172,Eucaliptos,Colonia,Tixtla de Guerrero,Guerrero,Tixtla de Guerrero,Urbano,https://postali.app/mx/guerrero/tixtla-de-guerrero/eucaliptos
 39172,La Huerta,Colonia,Tixtla de Guerrero,Guerrero,Tixtla de Guerrero,Urbano,https://postali.app/mx/guerrero/tixtla-de-guerrero/la-huerta
 39172,La Villita,Colonia,Tixtla de Guerrero,Guerrero,Tixtla de Guerrero,Urbano,https://postali.app/mx/guerrero/tixtla-de-guerrero/la-villita
 39172,Los Amates (Adolfo Cienfuegos),Colonia,Tixtla de Guerrero,Guerrero,Tixtla de Guerrero,Urbano,https://postali.app/mx/guerrero/tixtla-de-guerrero/los-amates-adolfo-cienfuegos
@@ -493,9 +494,9 @@
 39173,Niños Héroes,Colonia,Tixtla de Guerrero,Guerrero,Tixtla de Guerrero,Urbano,https://postali.app/mx/guerrero/tixtla-de-guerrero/ninos-heroes
 39173,Texcalzin (San Antonio),Barrio,Tixtla de Guerrero,Guerrero,Tixtla de Guerrero,Urbano,https://postali.app/mx/guerrero/tixtla-de-guerrero/texcalzin-san-antonio
 39174,Del Santuario,Barrio,Tixtla de Guerrero,Guerrero,Tixtla de Guerrero,Urbano,https://postali.app/mx/guerrero/tixtla-de-guerrero/del-santuario
-39174,La Alameda,Barrio,Tixtla de Guerrero,Guerrero,Tixtla de Guerrero,Urbano,https://postali.app/mx/guerrero/tixtla-de-guerrero/la-alameda
 39174,San Isidro,Barrio,Tixtla de Guerrero,Guerrero,Tixtla de Guerrero,Urbano,https://postali.app/mx/guerrero/tixtla-de-guerrero/san-isidro
 39174,Santa Cecilia,Barrio,Tixtla de Guerrero,Guerrero,Tixtla de Guerrero,Urbano,https://postali.app/mx/guerrero/tixtla-de-guerrero/santa-cecilia
+39175,Abedul,Colonia,Tixtla de Guerrero,Guerrero,Tixtla de Guerrero,Urbano,https://postali.app/mx/guerrero/tixtla-de-guerrero/abedul
 39175,Antonia Nava de Catalán,Colonia,Tixtla de Guerrero,Guerrero,Tixtla de Guerrero,Urbano,https://postali.app/mx/guerrero/tixtla-de-guerrero/antonia-nava-de-catalan
 39175,Ayotzinapa,Colonia,Tixtla de Guerrero,Guerrero,Tixtla de Guerrero,Urbano,https://postali.app/mx/guerrero/tixtla-de-guerrero/ayotzinapa
 39175,Del Fortín,Barrio,Tixtla de Guerrero,Guerrero,Tixtla de Guerrero,Urbano,https://postali.app/mx/guerrero/tixtla-de-guerrero/del-fortin
@@ -505,6 +506,7 @@
 39175,Ignacio Manuel Altamirano,Fraccionamiento,Tixtla de Guerrero,Guerrero,Tixtla de Guerrero,Urbano,https://postali.app/mx/guerrero/tixtla-de-guerrero/ignacio-manuel-altamirano
 39175,Jardines de Tixtla,Colonia,Tixtla de Guerrero,Guerrero,Tixtla de Guerrero,Urbano,https://postali.app/mx/guerrero/tixtla-de-guerrero/jardines-de-tixtla
 39175,Los Manguitos,Colonia,Tixtla de Guerrero,Guerrero,Tixtla de Guerrero,Urbano,https://postali.app/mx/guerrero/tixtla-de-guerrero/los-manguitos
+39175,Los Nogales,Colonia,Tixtla de Guerrero,Guerrero,Tixtla de Guerrero,Urbano,https://postali.app/mx/guerrero/tixtla-de-guerrero/los-nogales
 39175,Luis Donaldo Colosio,Colonia,Tixtla de Guerrero,Guerrero,Tixtla de Guerrero,Urbano,https://postali.app/mx/guerrero/tixtla-de-guerrero/luis-donaldo-colosio
 39175,Rinconada del Zapote,Colonia,Tixtla de Guerrero,Guerrero,Tixtla de Guerrero,Urbano,https://postali.app/mx/guerrero/tixtla-de-guerrero/rinconada-del-zapote
 39175,San Agustin,Barrio,Tixtla de Guerrero,Guerrero,Tixtla de Guerrero,Urbano,https://postali.app/mx/guerrero/tixtla-de-guerrero/san-agustin
@@ -1758,29 +1760,38 @@
 40173,Valerio Trujano,Pueblo,Tepecoacuilco de Trujano,Guerrero,,Rural,https://postali.app/mx/guerrero/tepecoacuilco-de-trujano/valerio-trujano
 40174,Sasamulco,Pueblo,Tepecoacuilco de Trujano,Guerrero,,Rural,https://postali.app/mx/guerrero/tepecoacuilco-de-trujano/sasamulco
 40180,Zumpango del Río Centro,Colonia,Eduardo Neri,Guerrero,Zumpango del Río,Urbano,https://postali.app/mx/guerrero/eduardo-neri/zumpango-del-rio-centro
-40181,La Noria,Barrio,Eduardo Neri,Guerrero,Zumpango del Río,Urbano,https://postali.app/mx/guerrero/eduardo-neri/la-noria
-40182,Del PRI,Colonia,Eduardo Neri,Guerrero,Zumpango del Río,Urbano,https://postali.app/mx/guerrero/eduardo-neri/del-pri
+40185,El PRI,Colonia,Eduardo Neri,Guerrero,Zumpango del Río,Urbano,https://postali.app/mx/guerrero/eduardo-neri/el-pri
+40185,La Esperanza,Colonia,Eduardo Neri,Guerrero,Zumpango del Río,Urbano,https://postali.app/mx/guerrero/eduardo-neri/la-esperanza
 40185,La Guadalupe,Barrio,Eduardo Neri,Guerrero,Zumpango del Río,Urbano,https://postali.app/mx/guerrero/eduardo-neri/la-guadalupe
-40185,Rubén Figueroa,Colonia,Eduardo Neri,Guerrero,Zumpango del Río,Urbano,https://postali.app/mx/guerrero/eduardo-neri/ruben-figueroa
+40185,Las Naciones,Fraccionamiento,Eduardo Neri,Guerrero,Zumpango del Río,Urbano,https://postali.app/mx/guerrero/eduardo-neri/las-naciones
+40185,Rubén Figueroa Alcocer,Colonia,Eduardo Neri,Guerrero,Zumpango del Río,Urbano,https://postali.app/mx/guerrero/eduardo-neri/ruben-figueroa-alcocer
 40185,San Sebastián,Barrio,Eduardo Neri,Guerrero,Zumpango del Río,Urbano,https://postali.app/mx/guerrero/eduardo-neri/san-sebastian
 40185,Santa Anita,Barrio,Eduardo Neri,Guerrero,Zumpango del Río,Urbano,https://postali.app/mx/guerrero/eduardo-neri/santa-anita
 40185,Santa Cruz,Barrio,Eduardo Neri,Guerrero,Zumpango del Río,Urbano,https://postali.app/mx/guerrero/eduardo-neri/santa-cruz
 40185,Xalpa,Barrio,Eduardo Neri,Guerrero,Zumpango del Río,Urbano,https://postali.app/mx/guerrero/eduardo-neri/xalpa
+40186,Buena Vista,Colonia,Eduardo Neri,Guerrero,Zumpango del Río,Urbano,https://postali.app/mx/guerrero/eduardo-neri/buena-vista
+40186,Carlos Sánchez Barrios,Colonia,Eduardo Neri,Guerrero,Zumpango del Río,Urbano,https://postali.app/mx/guerrero/eduardo-neri/carlos-sanchez-barrios
+40186,Cazahuates,Colonia,Eduardo Neri,Guerrero,Zumpango del Río,Urbano,https://postali.app/mx/guerrero/eduardo-neri/cazahuates
+40186,Jardines del Sur,Colonia,Eduardo Neri,Guerrero,Zumpango del Río,Urbano,https://postali.app/mx/guerrero/eduardo-neri/jardines-del-sur
 40186,Loma Bonita,Colonia,Eduardo Neri,Guerrero,Zumpango del Río,Urbano,https://postali.app/mx/guerrero/eduardo-neri/loma-bonita
 40186,Los Arcos,Barrio,Eduardo Neri,Guerrero,Zumpango del Río,Urbano,https://postali.app/mx/guerrero/eduardo-neri/los-arcos
-40186,Sagrado Corazón,Colonia,Eduardo Neri,Guerrero,Zumpango del Río,Urbano,https://postali.app/mx/guerrero/eduardo-neri/sagrado-corazon
+40186,Rafael Romero,Colonia,Eduardo Neri,Guerrero,Zumpango del Río,Urbano,https://postali.app/mx/guerrero/eduardo-neri/rafael-romero
 40186,San Antonio,Colonia,Eduardo Neri,Guerrero,Zumpango del Río,Urbano,https://postali.app/mx/guerrero/eduardo-neri/san-antonio
 40186,Santa Cecilia,Colonia,Eduardo Neri,Guerrero,Zumpango del Río,Urbano,https://postali.app/mx/guerrero/eduardo-neri/santa-cecilia
+40186,Santa María,Colonia,Eduardo Neri,Guerrero,Zumpango del Río,Urbano,https://postali.app/mx/guerrero/eduardo-neri/santa-maria
 40187,Independencia,Colonia,Eduardo Neri,Guerrero,Zumpango del Río,Urbano,https://postali.app/mx/guerrero/eduardo-neri/independencia
 40187,San Martín,Colonia,Eduardo Neri,Guerrero,Zumpango del Río,Urbano,https://postali.app/mx/guerrero/eduardo-neri/san-martin
-40187,Zompanzi,Colonia,Eduardo Neri,Guerrero,Zumpango del Río,Urbano,https://postali.app/mx/guerrero/eduardo-neri/zompanzi
+40187,Zompantzin,Colonia,Eduardo Neri,Guerrero,Zumpango del Río,Urbano,https://postali.app/mx/guerrero/eduardo-neri/zompantzin
+40188,El Mirador,Colonia,Eduardo Neri,Guerrero,Zumpango del Río,Urbano,https://postali.app/mx/guerrero/eduardo-neri/el-mirador
+40188,Sagrado Corazón,Colonia,Eduardo Neri,Guerrero,Zumpango del Río,Urbano,https://postali.app/mx/guerrero/eduardo-neri/sagrado-corazon
 40188,San José,Colonia,Eduardo Neri,Guerrero,Zumpango del Río,Urbano,https://postali.app/mx/guerrero/eduardo-neri/san-jose
+40188,San Martín de Porres,Colonia,Eduardo Neri,Guerrero,Zumpango del Río,Urbano,https://postali.app/mx/guerrero/eduardo-neri/san-martin-de-porres
 40188,Universal,Colonia,Eduardo Neri,Guerrero,Zumpango del Río,Urbano,https://postali.app/mx/guerrero/eduardo-neri/universal
 40188,Virgen de Juquila,Colonia,Eduardo Neri,Guerrero,Zumpango del Río,Urbano,https://postali.app/mx/guerrero/eduardo-neri/virgen-de-juquila
 40189,San Francisco,Barrio,Eduardo Neri,Guerrero,Zumpango del Río,Urbano,https://postali.app/mx/guerrero/eduardo-neri/san-francisco
 40189,San Rafael,Barrio,Eduardo Neri,Guerrero,Zumpango del Río,Urbano,https://postali.app/mx/guerrero/eduardo-neri/san-rafael
-40189,Santiago,Barrio,Eduardo Neri,Guerrero,Zumpango del Río,Urbano,https://postali.app/mx/guerrero/eduardo-neri/santiago
 40189,Santo Tomas,Barrio,Eduardo Neri,Guerrero,Zumpango del Río,Urbano,https://postali.app/mx/guerrero/eduardo-neri/santo-tomas
+40189,Señor Santiago,Barrio,Eduardo Neri,Guerrero,Zumpango del Río,Urbano,https://postali.app/mx/guerrero/eduardo-neri/senor-santiago
 40189,Tulipanes,Colonia,Eduardo Neri,Guerrero,Zumpango del Río,Urbano,https://postali.app/mx/guerrero/eduardo-neri/tulipanes
 40190,Carrizalillo,Pueblo,Eduardo Neri,Guerrero,,Rural,https://postali.app/mx/guerrero/eduardo-neri/carrizalillo
 40190,Venta Vieja,Ranchería,Eduardo Neri,Guerrero,,Rural,https://postali.app/mx/guerrero/eduardo-neri/venta-vieja
@@ -2355,7 +2366,7 @@
 40604,San Juan Mina,Pueblo,Tlapehuala,Guerrero,,Rural,https://postali.app/mx/guerrero/tlapehuala/san-juan-mina
 40605,Agua Colorada,Ranchería,Tlapehuala,Guerrero,,Rural,https://postali.app/mx/guerrero/tlapehuala/agua-colorada
 40605,El Tanque,Ranchería,Tlapehuala,Guerrero,,Rural,https://postali.app/mx/guerrero/tlapehuala/el-tanque
-40605,Juárez,Colonia,Tlapehuala,Guerrero,,Rural,https://postali.app/mx/guerrero/tlapehuala/juarez
+40605,Juárez (El Jabalí),Colonia,Tlapehuala,Guerrero,,Rural,https://postali.app/mx/guerrero/tlapehuala/juarez-el-jabali
 40605,Las Fraguas,Pueblo,Tlapehuala,Guerrero,,Rural,https://postali.app/mx/guerrero/tlapehuala/las-fraguas
 40606,El Guayabo,Ranchería,Tlapehuala,Guerrero,,Rural,https://postali.app/mx/guerrero/tlapehuala/el-guayabo
 40607,Progreso,Colonia,Tlapehuala,Guerrero,,Urbano,https://postali.app/mx/guerrero/tlapehuala/progreso
@@ -4820,14 +4831,17 @@
 41660,Guadalupe,Colonia,Cochoapa el Grande,Guerrero,,Urbano,https://postali.app/mx/guerrero/cochoapa-el-grande/guadalupe
 41660,Hidalgo,Colonia,Cochoapa el Grande,Guerrero,,Urbano,https://postali.app/mx/guerrero/cochoapa-el-grande/hidalgo
 41660,Juquila,Colonia,Cochoapa el Grande,Guerrero,,Rural,https://postali.app/mx/guerrero/cochoapa-el-grande/juquila
+41660,Llano de Ocote,Ranchería,Cochoapa el Grande,Guerrero,,Rural,https://postali.app/mx/guerrero/cochoapa-el-grande/llano-de-ocote
 41660,Los Chávez,Colonia,Cochoapa el Grande,Guerrero,,Urbano,https://postali.app/mx/guerrero/cochoapa-el-grande/los-chavez
 41660,Los Pinos,Colonia,Cochoapa el Grande,Guerrero,,Rural,https://postali.app/mx/guerrero/cochoapa-el-grande/los-pinos
+41660,Pueblo Viejo,Ranchería,Cochoapa el Grande,Guerrero,,Rural,https://postali.app/mx/guerrero/cochoapa-el-grande/pueblo-viejo
 41660,San Lorenzo,Colonia,Cochoapa el Grande,Guerrero,,Urbano,https://postali.app/mx/guerrero/cochoapa-el-grande/san-lorenzo
 41660,San Marcos,Colonia,Cochoapa el Grande,Guerrero,,Urbano,https://postali.app/mx/guerrero/cochoapa-el-grande/san-marcos
 41660,San Miguel,Colonia,Cochoapa el Grande,Guerrero,,Urbano,https://postali.app/mx/guerrero/cochoapa-el-grande/san-miguel
 41660,San Sebastián,Colonia,Cochoapa el Grande,Guerrero,,Urbano,https://postali.app/mx/guerrero/cochoapa-el-grande/san-sebastian
 41663,Ahuezutla,Ranchería,Cochoapa el Grande,Guerrero,,Rural,https://postali.app/mx/guerrero/cochoapa-el-grande/ahuezutla
 41663,Barrio de San Agustín,Barrio,Cochoapa el Grande,Guerrero,,Rural,https://postali.app/mx/guerrero/cochoapa-el-grande/barrio-de-san-agustin
+41663,Chilpancinguito de los Libres,Colonia,Cochoapa el Grande,Guerrero,,Rural,https://postali.app/mx/guerrero/cochoapa-el-grande/chilpancinguito-de-los-libres
 41663,Cuetzala Unión,Ranchería,Cochoapa el Grande,Guerrero,,Rural,https://postali.app/mx/guerrero/cochoapa-el-grande/cuetzala-union
 41663,La Barca,Ranchería,Cochoapa el Grande,Guerrero,,Rural,https://postali.app/mx/guerrero/cochoapa-el-grande/la-barca
 41663,Llano de Laguna,Ranchería,Cochoapa el Grande,Guerrero,,Rural,https://postali.app/mx/guerrero/cochoapa-el-grande/llano-de-laguna
@@ -4837,6 +4851,7 @@
 41663,Ndii Yoo,Ranchería,Cochoapa el Grande,Guerrero,,Rural,https://postali.app/mx/guerrero/cochoapa-el-grande/ndii-yoo
 41663,Ometepec Chiquito,Ranchería,Cochoapa el Grande,Guerrero,,Rural,https://postali.app/mx/guerrero/cochoapa-el-grande/ometepec-chiquito
 41663,Piedra Silleta,Ranchería,Cochoapa el Grande,Guerrero,,Rural,https://postali.app/mx/guerrero/cochoapa-el-grande/piedra-silleta
+41663,Rancho San Martín,Ranchería,Cochoapa el Grande,Guerrero,,Rural,https://postali.app/mx/guerrero/cochoapa-el-grande/rancho-san-martin
 41663,Rancho Viejo Santa Cruz,Ranchería,Cochoapa el Grande,Guerrero,,Rural,https://postali.app/mx/guerrero/cochoapa-el-grande/rancho-viejo-santa-cruz
 41663,San Agustín el Viejo,Ranchería,Cochoapa el Grande,Guerrero,,Rural,https://postali.app/mx/guerrero/cochoapa-el-grande/san-agustin-el-viejo
 41663,San Lucas,Ranchería,Cochoapa el Grande,Guerrero,,Rural,https://postali.app/mx/guerrero/cochoapa-el-grande/san-lucas
@@ -4847,13 +4862,16 @@
 41663,Tierra Blanquita,Ranchería,Cochoapa el Grande,Guerrero,,Rural,https://postali.app/mx/guerrero/cochoapa-el-grande/tierra-blanquita
 41663,Tierra Campesina,Ranchería,Cochoapa el Grande,Guerrero,,Rural,https://postali.app/mx/guerrero/cochoapa-el-grande/tierra-campesina
 41663,Tierra Colorada,Ranchería,Cochoapa el Grande,Guerrero,,Rural,https://postali.app/mx/guerrero/cochoapa-el-grande/tierra-colorada
+41663,Tierra de Algodón,Ranchería,Cochoapa el Grande,Guerrero,,Rural,https://postali.app/mx/guerrero/cochoapa-el-grande/tierra-de-algodon
 41663,Valle de Maguey,Ranchería,Cochoapa el Grande,Guerrero,,Rural,https://postali.app/mx/guerrero/cochoapa-el-grande/valle-de-maguey
+41663,Valle Verde,Ranchería,Cochoapa el Grande,Guerrero,,Rural,https://postali.app/mx/guerrero/cochoapa-el-grande/valle-verde
+41663,Yuu Mini,Ranchería,Cochoapa el Grande,Guerrero,,Rural,https://postali.app/mx/guerrero/cochoapa-el-grande/yuu-mini
 41664,Barranca de la Palma,Ranchería,Cochoapa el Grande,Guerrero,,Rural,https://postali.app/mx/guerrero/cochoapa-el-grande/barranca-de-la-palma
 41664,Barranca Faisán,Ranchería,Cochoapa el Grande,Guerrero,,Rural,https://postali.app/mx/guerrero/cochoapa-el-grande/barranca-faisan
+41664,Barranca Náhuatl,Ranchería,Cochoapa el Grande,Guerrero,,Rural,https://postali.app/mx/guerrero/cochoapa-el-grande/barranca-nahuatl
 41664,Barranca Pobre,Ranchería,Cochoapa el Grande,Guerrero,,Rural,https://postali.app/mx/guerrero/cochoapa-el-grande/barranca-pobre
 41664,Cahuañaña,Ranchería,Cochoapa el Grande,Guerrero,,Rural,https://postali.app/mx/guerrero/cochoapa-el-grande/cahuanana
 41664,Cerro de la Garza,Ranchería,Cochoapa el Grande,Guerrero,,Rural,https://postali.app/mx/guerrero/cochoapa-el-grande/cerro-de-la-garza
-41664,Chilpancinguito de los Libres,Colonia,Cochoapa el Grande,Guerrero,,Rural,https://postali.app/mx/guerrero/cochoapa-el-grande/chilpancinguito-de-los-libres
 41664,Cieneguilla,Ranchería,Cochoapa el Grande,Guerrero,,Rural,https://postali.app/mx/guerrero/cochoapa-el-grande/cieneguilla
 41664,El Rincón,Ranchería,Cochoapa el Grande,Guerrero,,Rural,https://postali.app/mx/guerrero/cochoapa-el-grande/el-rincon
 41664,Hierba Santa,Ranchería,Cochoapa el Grande,Guerrero,,Rural,https://postali.app/mx/guerrero/cochoapa-el-grande/hierba-santa
@@ -4869,15 +4887,12 @@
 41664,Rancho Guadalupe (Barranca Pobre),Ranchería,Cochoapa el Grande,Guerrero,,Rural,https://postali.app/mx/guerrero/cochoapa-el-grande/rancho-guadalupe-barranca-pobre
 41664,Santa Cruz,Ranchería,Cochoapa el Grande,Guerrero,,Rural,https://postali.app/mx/guerrero/cochoapa-el-grande/santa-cruz
 41664,Santa María Cahuañaña,Ranchería,Cochoapa el Grande,Guerrero,,Rural,https://postali.app/mx/guerrero/cochoapa-el-grande/santa-maria-cahuanana
-41664,Tierra de Algodón,Ranchería,Cochoapa el Grande,Guerrero,,Rural,https://postali.app/mx/guerrero/cochoapa-el-grande/tierra-de-algodon
-41664,Valle Verde,Ranchería,Cochoapa el Grande,Guerrero,,Rural,https://postali.app/mx/guerrero/cochoapa-el-grande/valle-verde
 41664,Xaha Yucu Yaa,Ranchería,Cochoapa el Grande,Guerrero,,Rural,https://postali.app/mx/guerrero/cochoapa-el-grande/xaha-yucu-yaa
 41664,Yoso Kanu,Ranchería,Cochoapa el Grande,Guerrero,,Rural,https://postali.app/mx/guerrero/cochoapa-el-grande/yoso-kanu
 41664,Yozo Canu Nuevo,Ranchería,Cochoapa el Grande,Guerrero,,Rural,https://postali.app/mx/guerrero/cochoapa-el-grande/yozo-canu-nuevo
 41664,Yozo Chun Chiquito,Ranchería,Cochoapa el Grande,Guerrero,,Rural,https://postali.app/mx/guerrero/cochoapa-el-grande/yozo-chun-chiquito
 41664,Yozondacua,Ranchería,Cochoapa el Grande,Guerrero,,Rural,https://postali.app/mx/guerrero/cochoapa-el-grande/yozondacua
 41664,Yozondacua Loma Bonita,Ranchería,Cochoapa el Grande,Guerrero,,Rural,https://postali.app/mx/guerrero/cochoapa-el-grande/yozondacua-loma-bonita
-41664,Yuu Mini,Ranchería,Cochoapa el Grande,Guerrero,,Rural,https://postali.app/mx/guerrero/cochoapa-el-grande/yuu-mini
 41665,Arroyo Carrizo,Ranchería,Cochoapa el Grande,Guerrero,,Rural,https://postali.app/mx/guerrero/cochoapa-el-grande/arroyo-carrizo
 41665,Arroyo Prieto,Ranchería,Cochoapa el Grande,Guerrero,,Rural,https://postali.app/mx/guerrero/cochoapa-el-grande/arroyo-prieto
 41665,Barranca Escondida,Ranchería,Cochoapa el Grande,Guerrero,,Rural,https://postali.app/mx/guerrero/cochoapa-el-grande/barranca-escondida
@@ -4898,7 +4913,6 @@
 41665,San Isidro,Ranchería,Cochoapa el Grande,Guerrero,,Rural,https://postali.app/mx/guerrero/cochoapa-el-grande/san-isidro
 41665,Tierra Colorada,Ranchería,Cochoapa el Grande,Guerrero,,Rural,https://postali.app/mx/guerrero/cochoapa-el-grande/tierra-colorada-41665
 41665,Tutun Nde Ita,Ranchería,Cochoapa el Grande,Guerrero,,Rural,https://postali.app/mx/guerrero/cochoapa-el-grande/tutun-nde-ita
-41665,Xalpa,Ranchería,Cochoapa el Grande,Guerrero,,Rural,https://postali.app/mx/guerrero/cochoapa-el-grande/xalpa
 41665,Yoso Ndikivi,Ranchería,Cochoapa el Grande,Guerrero,,Rural,https://postali.app/mx/guerrero/cochoapa-el-grande/yoso-ndikivi
 41665,Yuku Nu Kaxin,Ranchería,Cochoapa el Grande,Guerrero,,Rural,https://postali.app/mx/guerrero/cochoapa-el-grande/yuku-nu-kaxin
 41666,Arroyo Tigrillo,Ranchería,Cochoapa el Grande,Guerrero,,Rural,https://postali.app/mx/guerrero/cochoapa-el-grande/arroyo-tigrillo
@@ -4941,6 +4955,7 @@
 41666,Tierra Colorada Sur,Ranchería,Cochoapa el Grande,Guerrero,,Rural,https://postali.app/mx/guerrero/cochoapa-el-grande/tierra-colorada-sur
 41666,Vista Hermosa,Ranchería,Cochoapa el Grande,Guerrero,,Rural,https://postali.app/mx/guerrero/cochoapa-el-grande/vista-hermosa
 41666,Xa Kavá,Ranchería,Cochoapa el Grande,Guerrero,,Rural,https://postali.app/mx/guerrero/cochoapa-el-grande/xa-kava
+41666,Xalpa,Ranchería,Cochoapa el Grande,Guerrero,,Rural,https://postali.app/mx/guerrero/cochoapa-el-grande/xalpa
 41666,Yautepec,Ranchería,Cochoapa el Grande,Guerrero,,Rural,https://postali.app/mx/guerrero/cochoapa-el-grande/yautepec
 41666,Yoso Ya-a,Ranchería,Cochoapa el Grande,Guerrero,,Rural,https://postali.app/mx/guerrero/cochoapa-el-grande/yoso-ya-a
 41666,Yuvi Chonu,Ranchería,Cochoapa el Grande,Guerrero,,Rural,https://postali.app/mx/guerrero/cochoapa-el-grande/yuvi-chonu
@@ -4957,20 +4972,16 @@
 41667,Santa Rosa de Maldonado,Ranchería,Cochoapa el Grande,Guerrero,,Rural,https://postali.app/mx/guerrero/cochoapa-el-grande/santa-rosa-de-maldonado
 41667,Yuu Mini Saa,Ranchería,Cochoapa el Grande,Guerrero,,Rural,https://postali.app/mx/guerrero/cochoapa-el-grande/yuu-mini-saa
 41668,Barranca de Águila,Ranchería,Cochoapa el Grande,Guerrero,,Rural,https://postali.app/mx/guerrero/cochoapa-el-grande/barranca-de-aguila
-41668,Barranca Náhuatl,Ranchería,Cochoapa el Grande,Guerrero,,Rural,https://postali.app/mx/guerrero/cochoapa-el-grande/barranca-nahuatl
 41668,Guadalupe el Nuevo,Colonia,Cochoapa el Grande,Guerrero,,Rural,https://postali.app/mx/guerrero/cochoapa-el-grande/guadalupe-el-nuevo
 41668,La Ciénega,Ranchería,Cochoapa el Grande,Guerrero,,Rural,https://postali.app/mx/guerrero/cochoapa-el-grande/la-cienega
 41668,Llano de la Chuparrosa,Ranchería,Cochoapa el Grande,Guerrero,,Rural,https://postali.app/mx/guerrero/cochoapa-el-grande/llano-de-la-chuparrosa
 41668,Llano de la Mosca,Ranchería,Cochoapa el Grande,Guerrero,,Rural,https://postali.app/mx/guerrero/cochoapa-el-grande/llano-de-la-mosca
-41668,Llano de Ocote,Ranchería,Cochoapa el Grande,Guerrero,,Rural,https://postali.app/mx/guerrero/cochoapa-el-grande/llano-de-ocote
 41668,Loma Bonita,Ranchería,Cochoapa el Grande,Guerrero,,Rural,https://postali.app/mx/guerrero/cochoapa-el-grande/loma-bonita
 41668,Loma Grande,Ranchería,Cochoapa el Grande,Guerrero,,Rural,https://postali.app/mx/guerrero/cochoapa-el-grande/loma-grande
 41668,Los Pinos,Colonia,Cochoapa el Grande,Guerrero,,Rural,https://postali.app/mx/guerrero/cochoapa-el-grande/los-pinos-41668
 41668,Lázaro Cárdenas,Ranchería,Cochoapa el Grande,Guerrero,,Rural,https://postali.app/mx/guerrero/cochoapa-el-grande/lazaro-cardenas
 41668,Ndoyo Savi,Ranchería,Cochoapa el Grande,Guerrero,,Rural,https://postali.app/mx/guerrero/cochoapa-el-grande/ndoyo-savi
-41668,Pueblo Viejo,Ranchería,Cochoapa el Grande,Guerrero,,Rural,https://postali.app/mx/guerrero/cochoapa-el-grande/pueblo-viejo
 41668,Rancho de las Flores,Ranchería,Cochoapa el Grande,Guerrero,,Rural,https://postali.app/mx/guerrero/cochoapa-el-grande/rancho-de-las-flores
-41668,Rancho San Martín,Ranchería,Cochoapa el Grande,Guerrero,,Rural,https://postali.app/mx/guerrero/cochoapa-el-grande/rancho-san-martin
 41668,San Cristobalito,Ranchería,Cochoapa el Grande,Guerrero,,Rural,https://postali.app/mx/guerrero/cochoapa-el-grande/san-cristobalito
 41668,Xaha Yucundia,Ranchería,Cochoapa el Grande,Guerrero,,Rural,https://postali.app/mx/guerrero/cochoapa-el-grande/xaha-yucundia
 41668,Xiniandiki,Ranchería,Cochoapa el Grande,Guerrero,,Rural,https://postali.app/mx/guerrero/cochoapa-el-grande/xiniandiki
